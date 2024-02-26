@@ -1,0 +1,4262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>ANX</name>
+      <longname>Annexed</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Vengeant Seraph</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>W</color>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Vengeant Seraph gets +1/+1 for each attacking creature you control.</text>
+    </card>
+    <card>
+      <name>Parish Brute</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>W</color>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Parish Brute enter the battlefield, you gain 3 life.</text>
+    </card>
+    <card>
+      <name>Gryff Sentinal</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>W</color>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Hippogriff </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever Gryff Sentinal attacks, tap target creature defending player controls.</text>
+    </card>
+    <card>
+      <name>Redeemed Lycanthrope</name>
+      <set rarity="common" splitterPath="/Redeemed Lycanthrope.jpg" >ANX</set>
+      <prop>
+        <color>W</color>
+        <manacost>WW</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Werewolf </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Redeemed Lycanthrope attacks, if a creature died this turn, transform Redeemed Lycanthrope.
+---
+(Back): Kin Summoner</text>
+      <related attach="attach">Kin Summoner</related>
+      <related>Wolf</related>
+    </card>
+    <card>
+      <name>Kin Summoner</name>
+      <set rarity="common" splitterPath="/Kin Summoner.jpg" >ANX</set>
+      <prop>
+        <color>W</color>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Creature - Werewolf </type>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature transforms into Kin Summoner, untap it.
+{T}, Tap two untapped creatures you control: Create a 2/2 green Wolf creature token. Transform Kin Summoner.
+---
+(Front): Redeemed Lycanthrope</text>
+      <related>Wolf</related>
+    </card>
+    <card>
+      <name>Angelic Beckoning</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>W</color>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create three 1/1 white Human creature tokens.
+Resonance — If you’ve cast another spell this turn, create a 4/4 white Angel creature token with flying instead.</text>
+      <related count="3">Human</related>
+      <related>Angel</related>
+    </card>
+    <card>
+      <name>Entreat Oblivion</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>W</color>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As an additional cost to cast Entreat Oblivion, exile a creature card from your graveyard.
+Enchant creature
+Enchanted creature gets +X/+X and has vigilance, where X is the mana value of the creature card exiled by Entreat Oblivion.</text>
+    </card>
+    <card>
+      <name>Slain in Glory</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>W</color>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target blocked creature an opponent controls.</text>
+    </card>
+    <card>
+      <name>Fortifications Hold</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>W</color>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Prevent all combat damage that would be dealt this turn except by up to one target creature you control. You gain 1 life for each attacking creature.</text>
+    </card>
+    <card>
+      <name>Farscape Wolfir</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Wolf Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Farscape Wolfir enters the battlefield, sacrifice a creature. If a token creature was sacrificed this way, create a 2/2 green Wolf creature token.</text>
+      <related>Wolf</related>
+    </card>
+    <card>
+      <name>Striking Viper</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Snake </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+Morbid — 4G: Striking Viper fights target creature you don’t control. Activate only if a creature died this turn.</text>
+    </card>
+    <card>
+      <name>Wolfir Harbinger</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Wolf </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Wolfir Harbinger enters the battlefield, you may put a +1/+1 counter on another target creature that entered the battlefield this turn.</text>
+    </card>
+    <card>
+      <name>Hollowhenge Brambles</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Plant Wall </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender, reach
+When Hollowhenge Brambles dies, put a +1/+1 counter on up to one target creature you control.</text>
+    </card>
+    <card>
+      <name>Parishcrusher Wurm</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost>4GGG</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Wurm </type>
+        <maintype>Creature</maintype>
+        <pt>7/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample</text>
+    </card>
+    <card>
+      <name>Ulvenwald Terror</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Wolf </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as you own two or more cards in exile, Ulvenwald Terror gets +2/+2 and has trample.</text>
+    </card>
+    <card>
+      <name>Follow the Path</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a land with the same name as a land you control, put that card onto the battlefield tapped, then shuffle.
+Scry 1. (To scry 1, look at the top card of your library. You may put that card under your library.)</text>
+    </card>
+    <card>
+      <name>Plentiful Harvest</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You gain 1 life for each land you control.
+Morbid — If a creature died this turn, you gain 2 life for each land you control instead.</text>
+    </card>
+    <card>
+      <name>Lycanthropic Echo</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +3/+3 and has trample.
+At the beginning of each upkeep, if a player cast two or more spells last turn, sacrifice Lycanthropic Echo.</text>
+    </card>
+    <card>
+      <name>Swift Calculation</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>U</color>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Morbid — You may cast Swift Calculation as though it had flash if a creature died this turn.
+Draw two cards.</text>
+    </card>
+    <card>
+      <name>Dauntless Demon</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>B</color>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Demon </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Morbid — When Dauntless Demon enters the battlefield, if a creature died this turn, target player discards a card.</text>
+    </card>
+    <card>
+      <name>Virulent Mage</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>B</color>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Virulent Mage dies, destroy all creatures that dealt damage to it this turn.</text>
+    </card>
+    <card>
+      <name>Markov Seeker</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>B</color>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Vampire </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as it’s your turn, Markov Seeker and other Vampire creatures you control have first strike.</text>
+    </card>
+    <card>
+      <name>Lifeless One</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>B</color>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another creature dies, target opponent loses 1 life.</text>
+    </card>
+    <card>
+      <name>Tibalts Monster</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>R</color>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Devil </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+When Tibalt’s Monster dies, it deals 2 damage to each opponent.</text>
+    </card>
+    <card>
+      <name>Darting Wolf</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>R</color>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Wolf </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike, haste
+{R}: Darting Wolf gets +1/+0 until end of turn. Activate no more than twice each turn.</text>
+    </card>
+    <card>
+      <name>Looting Devil</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>R</color>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Devil </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Morbid — Looting Devil costs {3} less to cast if a creature died this turn.</text>
+    </card>
+    <card>
+      <name>Crazed Bloodsucker</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>R</color>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Vampire </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Crazed Bloodsucker becomes blocked, it deals 2 damage to defending player.</text>
+    </card>
+    <card>
+      <name>Contagious Disease</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>B</color>
+        <manacost>XBBB</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target player loses X life.</text>
+    </card>
+    <card>
+      <name>Hymns of the Fallen</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>B</color>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each opponent loses 4 life. You gain life equal to the life lost this way.</text>
+    </card>
+    <card>
+      <name>Deprive Tactics</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>B</color>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target player reveals his or her hand. You choose an instant or sorcery card from among cards revealed this way. That player discards the chosen card.
+Resonance — That player loses 1 life if you’ve cast another spell this turn.</text>
+    </card>
+    <card>
+      <name>Twisted Fate</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>B</color>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets -X/-X, where X is the difference between enchanted creatures controller’s life total and your life total.</text>
+    </card>
+    <card>
+      <name>Mnemonic Geist</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>U</color>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>2U: Exile Mnemonic Geist, then return it to the battlefield under its owner’s control. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Blind Geist</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever Blind Geist deals combat damage to a player, that player exiles the top four cards of their library.</text>
+    </card>
+    <card>
+      <name>Steeple Whisperer</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Resonance — Whenever you cast a spell, if you’ve cast another spell this turn, Steeple Whisperer gets +2/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Whimflame Devil</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>R</color>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Devil </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as it’s your turn, Whimflame Devil has first strike.
+Whenever Whimflame Devil deals combat damage to a player, you may have it deal 2 damage to target creature or planeswalker. If you do, return Whimflame Devil to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Vengeful Arbiter</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>R</color>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+{R}: Vengeful Arbiter gets +1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Pyrewire</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>UR</color>
+        <manacost>UR</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Pyrewire deals 3 damage to target creature. If a creature dealt damage this way would die this turn, exile it instead.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Ghostfathom Touch</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>U</color>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile each of up to two target creatures, then return them to the battlefield under their owner’s control.</text>
+    </card>
+    <card>
+      <name>Tormenting Voice</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>R</color>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast Tormenting Voice, discard a card.
+Draw two cards.</text>
+    </card>
+    <card>
+      <name>Riot Yell</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>R</color>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Creatures you control get +3/+0 and gain first strike until end of turn.</text>
+    </card>
+    <card>
+      <name>Plains4</name>
+      <set rarity="">ANX</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Island3</name>
+      <set rarity="">ANX</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Swamp4</name>
+      <set rarity="">ANX</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Mountain1</name>
+      <set rarity="">ANX</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Forest1</name>
+      <set rarity="">ANX</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Gryff Guide</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>U</color>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Hippogriff </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, hexproof</text>
+    </card>
+    <card>
+      <name>Blind with Fright</name>
+      <set rarity="mythic">ANX</set>
+      <prop>
+        <color>U</color>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Tap all creatures, then untap any number of target creatures.
+Creatures you don’t control don’t untap during their controller’s next untap step.</text>
+    </card>
+    <card>
+      <name>Corporeal Relapse</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature to its owners hand.
+Morbid — Then return target creature you control to its owner’s hand unless a creature died this turn.</text>
+    </card>
+    <card>
+      <name>Wrong Choice</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target player reveals their hand. Choose a nonland card from it. That player puts the chosen card on the top of their library.
+Resonance — If you’ve cast another spell this turn, that player can’t cast spells with the same name as the chosen card until your next turn.</text>
+    </card>
+    <card>
+      <name>Blessed Soldier</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>W</color>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Blessed Soldier gets +1/+1 for each Aura and Equipment you control attached to it.</text>
+    </card>
+    <card>
+      <name>Outskirt Rider</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>W</color>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Tap an untapped creature you control: Outskirt Rider gets +2/+2 until end of turn. Activate only once each turn.</text>
+    </card>
+    <card>
+      <name>Sky Dive</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>W</color>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You gain life equal to the power of target creature you control. Exile it, then return it to the battlefield under its owner’s control.</text>
+    </card>
+    <card>
+      <name>Unwaning</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>W</color>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gains indestructible until end of turn.
+Resonance — Then if you’ve cast another spell this turn, that creature gains lifelink until end of turn.</text>
+    </card>
+    <card>
+      <name>Plains</name>
+      <set rarity="">ANX</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Island4</name>
+      <set rarity="">ANX</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Swamp3</name>
+      <set rarity="">ANX</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Mountain</name>
+      <set rarity="">ANX</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Forest2</name>
+      <set rarity="">ANX</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Plains2</name>
+      <set rarity="">ANX</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Mountain3</name>
+      <set rarity="">ANX</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Island1</name>
+      <set rarity="">ANX</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Call of the Parish</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>W</color>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create two 1/1 white Human creature tokens.</text>
+      <related count="2">Human</related>
+    </card>
+    <card>
+      <name>Mind Pry</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>U</color>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each player mills four, then each player draws a card.</text>
+    </card>
+    <card>
+      <name>Escape from Reality</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Look at the top four cards of your library. Put one of those cards into your hand and the rest under your library in any order.</text>
+    </card>
+    <card>
+      <name>Moonmad Alchemist</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Moonmad Alchemist enters the battlefield, draw a card.
+2UU: Put a card from your hand under your library. Exile Moonmad Alchemist, then return it to the battlefield under its owner’s control.</text>
+    </card>
+    <card>
+      <name>Havengul Idealist</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Havengul Idealist enters the battlefield, look at the top X cards of your library, where X is the number of Human creatures you control. Put any number of those cards into your graveyard and the rest on the top of your library in any order.</text>
+    </card>
+    <card>
+      <name>Gavony Scavengers</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>B</color>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Morbid — {T}: Target player loses 2 life and you gain 2 life. Activate only if a creature died this turn.</text>
+    </card>
+    <card>
+      <name>Kessig Duelist</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>No more than one creature can block Kessig Duelist.
+Whenever Kessig Duelist attacks, target creature blocks it this turn if able.
+Whenever Kessig Duelist is dealt damage, add {G} at the beginning of the your next main phase.</text>
+    </card>
+    <card>
+      <name>Wolfir Sheepeater</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Wolf Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Morbid — At the beginning of combat on your turn, if a creature died this turn, put a +1/+1 counter on Wolfir Sheepeater.</text>
+    </card>
+    <card>
+      <name>Cathars Vengeance</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>W</color>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +2/+0 and gains lifelink until end of turn.
+Morbid — If a creature died this turn, that creature also gains indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>Cosmic Geist</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>U</color>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash, flying
+At the beginning of your upkeep, if no life was lost last turn, creatures you control can’t be blocked this turn.</text>
+    </card>
+    <card>
+      <name>Eternal Fires</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>R</color>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Eternal Fires deals 2 damage to each creature. When a creature dealt damage this way dies this turn, Eternal Fires deals 2 damage to that creature’s controller.</text>
+    </card>
+    <card>
+      <name>Falkenrath Bloodbender</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>R</color>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Vampire </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as it’s your turn, Falkenrath Bloodbender has first strike.
+Whenever a creature dealt damage by Falkenrath Bloodbender this turn dies, put a blood counter on Falkenrath Bloodbender.
+{T}: Falkenrath Bloodbender deals X damage to target creature. Where X is the number of blood counters on Falkenrath Bloodbender.</text>
+    </card>
+    <card>
+      <name>Kinfighter</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Wolf </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Kinfighter enters the battlefield, you may sacrifice a Wolf creature. If you do, put two +1/+1 counters on another target creature you control.</text>
+    </card>
+    <card>
+      <name>Fellhide Warrior</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Wolf Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever a creature enters the battlefield under an opponents control, put a +1/+1 counter on Fellhide Warrior.</text>
+    </card>
+    <card>
+      <name>Savage Repose</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +3/+3 and gains trample until end of turn.
+Resonance — If you’ve cast another spell this turn, instead, put three +1/+1 counter on that creature. It gains trample until end of turn.</text>
+    </card>
+    <card>
+      <name>Stronghold Arbiter</name>
+      <set rarity="mythic">ANX</set>
+      <prop>
+        <color>W</color>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever Stronghold Arbiter attacks, put a +1/+1 counter on each other attacking creature you control.
+Tap two untapped Human creatures you control: Stronghold Arbiter gains indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>Sanctified Battlefield</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>As Sanctified Battlefield enters the battlefield, you may exile two cards from your graveyard. If you don’t, it enters the battlefield tapped.
+{T}: Add {R} or {W}.</text>
+    </card>
+    <card>
+      <name>Palace of the Divine</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>As Palace of the Divine enters the battlefield, you may exile two cards from your graveyard. If you don’t, it enters the battlefield tapped.
+{T}: Add {W} or {B}.</text>
+    </card>
+    <card>
+      <name>Corpsefeed Grove</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>As Corpsefeed Grove enters the battlefield, you may exile two cards from your graveyard. If you don’t, it enters the battlefield tapped.
+{T}: Add {B} or {G}.</text>
+    </card>
+    <card>
+      <name>Humid Tundra</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>As Humid Tundra enters the battlefield, you may exile two cards from your graveyard. If you don’t, it enters the battlefield tapped.
+{T}: Add {U} or {R}.</text>
+    </card>
+    <card>
+      <name>Swamp2</name>
+      <set rarity="">ANX</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Forest4</name>
+      <set rarity="">ANX</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Celebrated Mage</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>U</color>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Resonance — Whenever you cast a spell, if you’ve cast another spell this turn, Celebrated Mage gets +1/+0 and gains flying until end of turn.</text>
+    </card>
+    <card>
+      <name>Backwater Brush</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>As Backwater Brush enters the battlefield, you may exile two cards from your graveyard. If you don’t, it enters the battlefield tapped.
+{T}: Add {G} or {U}.</text>
+    </card>
+    <card>
+      <name>Flameyearn Demon</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>BR</color>
+        <manacost>BR</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Demon </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Whenever Flameyearn Demon deals combat damage to a player, sacrifice a creature.</text>
+    </card>
+    <card>
+      <name>Frostweave</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>U</color>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+When Frostweave enters the battlefield, tap or untap target permanent.
+Enchanted creature doesn’t untap during its controllers untap step.</text>
+    </card>
+    <card>
+      <name>Darkwind Shade</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>B</color>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Shade </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever Darkwind Shade enters the battlefield or attacks, you lose 1 life.</text>
+    </card>
+    <card>
+      <name>Bloodleech Demon</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>B</color>
+        <manacost>2BBB</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Demon </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+At the beginning of your end step, target player loses life equal to the amount of life you gained this turn.</text>
+    </card>
+    <card>
+      <name>Transcendance Serum</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color></color>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Clue </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>The second spell you cast each turn costs {1} less to cast.
+{2}, Sacrifice Transcendance Serum: Draw a card.</text>
+    </card>
+    <card>
+      <name>Kidnapping</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>B</color>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Kidnapping enters the battlefield, exile target creature.
+4BB, Sacrifice a creature: Exile target creature.
+When Kidnapping leaves the battlefield, return each creature exiled with it to the battlefield under its owner’s control.</text>
+    </card>
+    <card>
+      <name>Feast on the Feeble</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>B</color>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature. Create 2/2 black Vampire creature token with flying.</text>
+      <related>Vampire</related>
+    </card>
+    <card>
+      <name>Warrior Lunarch</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>W</color>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Cleric Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink, vigilance
+{2}, {T}, Tap an untapped creature you control: Put a +1/+1 counter on that creature and a +1/+1 counter on Warrior Lunarch.</text>
+    </card>
+    <card>
+      <name>Waining Call</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Morbid — When you cast Waining Call copy it if a creature died this turn.
+Reveal cards from the top of your library until you reveal a creature card. Put that card into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Kessig Doghunter</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Protection from Wolves and Werewolves. (This creature can’t be blocked, targeted, dealt damage, or enchanted by Wolves or Werewolves.)</text>
+    </card>
+    <card>
+      <name>Skytreader Angel</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>W</color>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever Skytreader Angel attacks, it gets +1/+1 for each nonattacking creature you control.</text>
+    </card>
+    <card>
+      <name>Pact Invoker</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>B</color>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Vampire Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Resonance — Whenever you cast a spell, if you’ve cast another spell this turn, each opponent loses 1 life.</text>
+    </card>
+    <card>
+      <name>Gavony Seraph</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>W</color>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever Gavony Seraph attacks, untap another target attacking creature you control.</text>
+    </card>
+    <card>
+      <name>Gravetreader Rogue</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>U</color>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Gravetreader Rogue can’t be blocked by Zombies.
+Whenever Gravetreader Rogue deals combat damage to a player, draw a card.</text>
+    </card>
+    <card>
+      <name>Mindsnare</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>U</color>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Gain control of target creature with power 4 or greater.
+Resonance — If you’ve cast another spell this turn, draw two cards.</text>
+    </card>
+    <card>
+      <name>Wolfir Ghostspeaker</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Wolf Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another creature dies, Wolfir Ghostspeaker gets +2/+2 until end of turn. If a Wolf creature died this way, put two +1/+1 counters on Wolfir Ghostspeaker instead.</text>
+    </card>
+    <card>
+      <name>Banisher Priest</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>W</color>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Banisher Priest enters the battlefield, exile target creature an opponent controls until Banisher Priest leaves the battlefield. (That creature returns under its owner’s control.)</text>
+    </card>
+    <card>
+      <name>Strength of the Bond</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +3/+3 until end of turn.
+Morbid — If a creature died this turn, that creature also gains trample until end of turn.</text>
+    </card>
+    <card>
+      <name>Cursed Graves</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>B</color>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature dies, you gain 1 life and target opponent loses 1 life.
+Exile three creature cards from your graveyard: Create a tapped 2/2 black Zombie creature token.</text>
+      <related>Zombie</related>
+    </card>
+    <card>
+      <name>Wandering Bard</name>
+      <set rarity="uncommon" splitterPath="/Wandering Bard.jpg" >ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Werewolf </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of each upkeep, if no spells were cast last turn, transform Wandering Bard.
+---
+(Back): Wandering Werewolf</text>
+      <related attach="attach">Wandering Werewolf</related>
+    </card>
+    <card>
+      <name>Wandering Werewolf</name>
+      <set rarity="uncommon" splitterPath="/Wandering Werewolf.jpg" >ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost></manacost>
+        <cmc>1</cmc>
+        <type>Creature - Werewolf </type>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+At the beginning of each upkeep, if two or more spells were cast last turn, transform Wandering Werewolf.
+---
+(Front): Wandering Bard</text>
+    </card>
+    <card>
+      <name>Scion of Wolves</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Scion of Wolves dies, create two 2/2 green Wolf creature tokens.</text>
+      <related>Wolf</related>
+    </card>
+    <card>
+      <name>Treacherous Cathar</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>B</color>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Exile two creature cards from your graveyard: Return Treacherous Cathar from your graveyard your hand.</text>
+    </card>
+    <card>
+      <name>Firechain Cathar</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>R</color>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Firechain Cathar attacks, it gets +1/-1 for each other attacking creature you control.</text>
+    </card>
+    <card>
+      <name>Vampiric Ire</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>R</color>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Vampiric Ire deals 3 damage to target creature. If you control a Vampire, Vampiric Ire deals 5 damage to that creature instead.</text>
+    </card>
+    <card>
+      <name>Roaming Wolf</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Wolf </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Roaming Wolf enters the battlefield, reveal the top three cards of your library. You may put a land card from among them into your hand and the rest into your graveyard.</text>
+    </card>
+    <card>
+      <name>Unyielding Ghoul</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>B</color>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may have Unyielding Ghoul assign its combat damage as though it weren’t blocked.
+Unyielding Ghoul can’t block.
+Morbid — At the beginning of each end step, if another creature died this turn, return Unyielding Ghoul from your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>Markov Harvester</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>B</color>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Vampire </type>
+        <maintype>Creature</maintype>
+        <pt>4/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Morbid — At the beginning of combat on your turn, if a creature died this turn, Markov Harvester gains lifelink and menace until end of turn.</text>
+    </card>
+    <card>
+      <name>Angelic Guidance</name>
+      <set rarity="rare" splitterPath="/Angelic Guidance.jpg" >ANX</set>
+      <prop>
+        <color>W</color>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +2/+2, has flying and vigilance, and is an Angel in addition to its other types.
+When Angelic Guidance is put into your graveyard from the battlefield, return it to the battlefield transformed.
+---
+(Back): Angelic Guardian</text>
+      <related attach="attach">Angelic Guardian</related>
+    </card>
+    <card>
+      <name>Angelic Guardian</name>
+      <set rarity="rare" splitterPath="/Angelic Guardian.jpg" >ANX</set>
+      <prop>
+        <color>W</color>
+        <manacost></manacost>
+        <cmc>5</cmc>
+        <type>Creature - Angel </type>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance
+---
+(Front): Angelic Guidance</text>
+    </card>
+    <card>
+      <name>Whispering Lich</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>UB</color>
+        <manacost>UB</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Zombie Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}, Exile two cards from your graveyard: If two creature cards were exiled this way, create a 2/2 black Zombie creature token. Otherwise, draw a card.</text>
+      <related>Zombie</related>
+    </card>
+    <card>
+      <name>Tome Thief</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Tome Thief deals combat damage to a player, draw a card</text>
+    </card>
+    <card>
+      <name>Gleaming Seraph</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>W</color>
+        <manacost>3WWW</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Morbid — When Gleaming Seraph enters the battlefield, if a creature died this turn, return each creature card that died this turn from your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>Necrolance</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>B</color>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Necrolance deals 2 damage to any target and you gain 2 life.
+Morbid — If a creature died this turn, Necrolance deals 4 damage to that target and you gain 4 life instead.</text>
+    </card>
+    <card>
+      <name>Dissension Amulet</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color></color>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Each player draws a card.</text>
+    </card>
+    <card>
+      <name>Thalia Vengeful Cathar</name>
+      <set rarity="mythic">ANX</set>
+      <prop>
+        <color>W</color>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Planeswalker - Thalia </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: Create two 1/1 white Human creature tokens.
+[-2]: You gain 1 life for each creature you control.
+[-7]: You get an emblem with “Creatures you control get +1/+1 and have flying and are Angels in addition to their other types.”      </text>
+      <related count="2">Human</related>
+    </card>
+    <card>
+      <name>Skypillars</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>R</color>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Skypillars deals 3 damage to any target
+Resonance — Then if you’ve cast another spell this turn, Scry 1 (To scry 1, look at the top card of your library. You may put that card under your library.)</text>
+    </card>
+    <card>
+      <name>Sorin&apos;s Messenger</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>WB</color>
+        <manacost>WB</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Vampire </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, lifelink
+At the beginning of your upkeep, you lose 1 life.</text>
+    </card>
+    <card>
+      <name>Hunters Gift</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost>5G</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature you control deals combat damage to a player. If that creature had the highest power among creatures you control, draw a number of cards equal to the lowest power among creatures you control.</text>
+    </card>
+    <card>
+      <name>Markov Servant</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>B</color>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Vampire </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Morbid — Markov Servant has flying as long as a creature has died this turn.
+2B, Sacrifice a creature: Put a +1/+1 counter on Markov Servant.</text>
+    </card>
+    <card>
+      <name>Thraben Prowler</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>B</color>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Morbid — Thraben Prowler gets +2/+0 as long as a creature has died this turn</text>
+    </card>
+    <card>
+      <name>Daybreak Guard</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>W</color>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance</text>
+    </card>
+    <card>
+      <name>Consuming Demon</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>B</color>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Demon </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Morbid — Consuming Demon gets +2/+2 as long as a creature has died this turn.</text>
+    </card>
+    <card>
+      <name>Helvault Echos</name>
+      <set rarity="mythic">ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>For each nontoken creature you control, create a token that is a copy of that creature.</text>
+    </card>
+    <card>
+      <name>Angel Frayblade</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>R</color>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever another creature enters the battlefield under your control, Angel Frayblade gets +1/+0 until end of turn.
+As long as you control five or more attacking creatures, those creatures have menace.</text>
+    </card>
+    <card>
+      <name>Avacyn the Forsaken</name>
+      <set rarity="mythic">ANX</set>
+      <prop>
+        <color>W</color>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Avacyn enters the battlefield, put a fate counter on each creature you don’t control.
+Whenever a Human enters the battlefield under your control, you may destroy destroy target creature with a fate counter on it.</text>
+    </card>
+    <card>
+      <name>Thousand Teeth</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>UG</color>
+        <manacost>5GU</manacost>
+        <cmc>7</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>When you cast Thousand Teeth, if it isn’t a copy, copy it for each creature you control.
+Create a 2/2 green Wolf creature token, then draw a card.</text>
+      <related>Wolf</related>
+    </card>
+    <card>
+      <name>Undeath Alchemist</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>U</color>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Hexproof
+Morbid — At the beginning of each end step, if a creature died this turn, Scry 1. (To scry 1, look at the top card of your library. You may put that card under your library.)</text>
+    </card>
+    <card>
+      <name>Kruin Bandit</name>
+      <set rarity="uncommon" splitterPath="/Kruin Bandit.jpg" >ANX</set>
+      <prop>
+        <color>R</color>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Werewolf </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Kruin Bandit becomes blocked, transform it.
+---
+(Back): Renegade Werewolf</text>
+      <related attach="attach">Renegade Werewolf</related>
+    </card>
+    <card>
+      <name>Renegade Werewolf</name>
+      <set rarity="uncommon" splitterPath="/Renegade Werewolf.jpg" >ANX</set>
+      <prop>
+        <color>R</color>
+        <manacost></manacost>
+        <cmc>1</cmc>
+        <type>Creature - Werewolf </type>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as it’s your turn, Renegade Werewolf has first strike.
+Whenever Renegade Werewolf deals combat damage to a player, transform it.
+---
+(Front): Kruin Bandit</text>
+    </card>
+    <card>
+      <name>Angels Herald</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>W</color>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Lifelink
+When Angel’s Herald enters the battlefield, you gain life equal to the amount of life you lost this turn.</text>
+    </card>
+    <card>
+      <name>Fling</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>R</color>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast Fling, sacrifice a creature.
+Fling deals damage equal to the sacrificed creature’s power to any target.</text>
+    </card>
+    <card>
+      <name>Moonrage</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>R</color>
+        <manacost>6R</manacost>
+        <cmc>7</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Moonrage deals 4 damage to each non-Werewolf creature.</text>
+    </card>
+    <card>
+      <name>Stromkirk Heir</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>B</color>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Vampire </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever a creature enters the battlefield under an opponent’s control, that player loses 1 life and you gain 1 life.</text>
+    </card>
+    <card>
+      <name>Immortal Savagery</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>R</color>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +1/-1 and gains haste and menace until end of turn.</text>
+    </card>
+    <card>
+      <name>Pacifism</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>W</color>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature can’t attack or block.</text>
+    </card>
+    <card>
+      <name>Sorin Banished</name>
+      <set rarity="mythic" splitterPath="/Sorin Banished.jpg" >ANX</set>
+      <prop>
+        <color>WB</color>
+        <manacost>2WB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Planeswalker - Sorin </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+2]: Each opponent loses 1 life and you gain 1 life.
+[0]: If a creature died this turn, transform Sorin.
+[-4]: Target opponent sacrifices a creature or planeswalker.
+---
+(Back): Sorin, Innistrad&apos;s Undoing</text>
+      <related attach="attach">Sorin, Innistrad&apos;s Undoing</related>
+    </card>
+    <card>
+      <name>Sorin, Innistrad&apos;s Undoing</name>
+      <set rarity="mythic" splitterPath="/Sorin, Innistrad's Undoing.jpg" >ANX</set>
+      <prop>
+        <color>WB</color>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Legendary Planeswalker - Sorin </type>
+        <loyalty></loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[-1]: Each player sacrifices a creature.
+[-2]: Target opponent sacrifices a creature or planeswalker.
+[-9]: You get an emblem with “Whenever a creature you control dies, return it the battlefield tapped under its owner’s control.”
+---
+(Front): Sorin Banished</text>
+    </card>
+    <card>
+      <name>Horrid Souls</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>U</color>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Horrid Souls enters the battlefield, if you cast it from your hand, sacrifice a creature.</text>
+    </card>
+    <card>
+      <name>Deceive</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>U</color>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Look at the top two cards of target player’s library. You may put any number of those cards under their library in any order. Put the rest on top of that player’s library in any order.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Thraben Revoker</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>U</color>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Thraben Revoker enters the battlefield, you may put a card you own in exile that was put there this turn into your graveyard.
+1U, {T}: Exile Thraben Revoker. Return it to the battlefield under its owner’s control at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>Spiritbinder Stitcher</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>U</color>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}, Sacrifice a Spirit creature and another creature you control: Create a tapped 4/4 blue Zombie creature token named “Zombie Abomination.”</text>
+      <related>Zombie Abomination</related>
+    </card>
+    <card>
+      <name>GryffTamer</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>U</color>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Gryff-Tamer can’t be the target of spells you don’t control with mana value 3.
+Whenever a card you own is exiled from anywhere, you may pay 2U. If you do, create a 3/3 blue Hippogriff creature token.</text>
+      <related>Hippogriff</related>
+    </card>
+    <card>
+      <name>Angels Plea</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>W</color>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Whenever a creature enters the battlefield this turn, you gain 2 life.
+Exile any number of target creatures you control, then return them to the battlefield under their owner’s control.</text>
+    </card>
+    <card>
+      <name>Smite the Monstrous</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>W</color>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature with power 4 or greater.</text>
+    </card>
+    <card>
+      <name>Soul Splurge</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>U</color>
+        <manacost>2UUU</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+You control enchanted creature.
+Morbid — At the beginning of your end step, if a creature died this turn, you may attach Soul Splurge to another target creature.</text>
+    </card>
+    <card>
+      <name>Screams of the Geist</name>
+      <set rarity="mythic">ANX</set>
+      <prop>
+        <color>U</color>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Screams of the Geist enters the battlefield, Scry 2. (To scry 2, look at the top two cards of your library, then you may put any number of them under your library and the rest on top in any order.)
+2UU: Create two 1/1 white Spirit creature tokens with flying.</text>
+      <related count="2">Spirit</related>
+    </card>
+    <card>
+      <name>Eleventh Hour</name>
+      <set rarity="mythic">ANX</set>
+      <prop>
+        <color>B</color>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target player’s graveyard. Create a 2/2 black Zombie creature token for each creature card exiled this way.</text>
+      <related>Zombie</related>
+    </card>
+    <card>
+      <name>Falkenrath Culler</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>R</color>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Vampire </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+3R: Falkenrath Culler gets +2/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Lycan Brutality</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>RG</color>
+        <manacost>1RG</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control deals damage equal to its power to target creature or planeswalker.
+Morbid — If a creature died this turn, the creature you control also deals that much damage to that permanent’s controller</text>
+    </card>
+    <card>
+      <name>Tibalts Cruelty</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>R</color>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile the top two cards of your library. Until the end of your next turn, you may play those cards. Tibalt’s Cruelty deals 2 damage to each opponent.</text>
+    </card>
+    <card>
+      <name>Blood Puppetry</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>R</color>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
+Morbid — If a creature died this turn, sacrifice that creature at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>Devils Playground</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>R</color>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create four 1/1 red Devil creature tokens. They have “When this creature dies, it deals 1 damage to any target.”</text>
+      <related count="4">Devil</related>
+      <related>Reprint from Shadows over Innistrad</related>
+    </card>
+    <card>
+      <name>Kruin Igniter</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>R</color>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{R}, {T}, Exile an instant or sorcery card from your graveyard: Kruin Igniter deals 2 damage to target creature. If you cast a spell with the same name as that card this turn, Kruin Igniter deals 2 damage to that creature’s controller.</text>
+    </card>
+    <card>
+      <name>Firewing Angel</name>
+      <set rarity="mythic">ANX</set>
+      <prop>
+        <color>R</color>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, haste
+Whenever Firewing Angel deals combat damage to a player, Firewing Angel deals that much damage to target creature that player controls.
+{T}: Discard a card, then draw a card.</text>
+    </card>
+    <card>
+      <name>Peaceful Reserve</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Play with the top card of your library revealed.
+You may play the top card of your library if it is a creature.
+3G: Put a random creature card in your graveyard beneath the top three cards of your library.</text>
+    </card>
+    <card>
+      <name>Gatstaf Forsaker</name>
+      <set rarity="uncommon" splitterPath="/Gatstaf Forsaker.jpg" >ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Werewolf </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+2GG: Gatstaf Forsaker gets +2/+2 until end of turn.
+At the beginning of each upkeep if no spells were cast last turn, transform Wandering Bard.
+---
+(Back): Wolfir Prowler</text>
+      <related attach="attach">Wolfir Prowler</related>
+    </card>
+    <card>
+      <name>Wolfir Prowler</name>
+      <set rarity="uncommon" splitterPath="/Wolfir Prowler.jpg" >ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Creature - Werewolf </type>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+2GG: Wolfir Prowler gets +4/+4 until end of turn.
+At the beginning of each upkeep, if two or more spells were cast last turn, transform Wandering Werewolf.
+---
+(Front): Gatstaf Forsaker</text>
+    </card>
+    <card>
+      <name>Hunting Spree</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a +1/+1 counter on each creature you control.</text>
+    </card>
+    <card>
+      <name>Preying Hunter</name>
+      <set rarity="common" splitterPath="/Preying Hunter.jpg" >ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Werewolf </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of each upkeep, if no spells were cast last turn, transform Preying Hunter.
+---
+(Back): Werewolf Stalker</text>
+      <related attach="attach">Werewolf Stalker</related>
+    </card>
+    <card>
+      <name>Werewolf Stalker</name>
+      <set rarity="common" splitterPath="/Werewolf Stalker.jpg" >ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Creature - Werewolf </type>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Werewolf Stalker transforms into Werewolf Stalker, you may put a +1/+1 counter on it.
+At the beginning of each upkeep, if two or more spells were cast last turn, transform Werewolf Stalker.
+---
+(Front): Preying Hunter</text>
+    </card>
+    <card>
+      <name>Blossoming Harvest</name>
+      <set rarity="mythic">ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Lands you control gain “{T}: Add CC.” until end of turn. Draw a card.</text>
+    </card>
+    <card>
+      <name>Holy Vestige</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color></color>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Holy Vestige enters the battlefield, draw a card.
+Equipped creature gets +1/+1 and has protection from Angels, Demons, and Dragons.
+Equip {3}</text>
+    </card>
+    <card>
+      <name>Helvault Dust</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color></color>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Helvault Dust enters the battlefield, exile target nonland permanent until Helvault Dust leaves the battlefield.
+{7}, {T}: Return all cards exiled by Helvault Dust to the battlefield then exile target nonland permanent until Helvault Dust leaves the battlefield.</text>
+    </card>
+    <card>
+      <name>Mistglow Angel</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>U</color>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Prevent all combat damage that would be dealt to and dealt by Mistglow Angel.</text>
+    </card>
+    <card>
+      <name>Skirsdag Assassin</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>B</color>
+        <manacost>BB</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Morbid — Sacrifice Skirsdag Assassin: Destroy target creature that was dealt damage this turn. Activate only if a creature died this turn.</text>
+    </card>
+    <card>
+      <name>Firelash Devil</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>R</color>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Devil </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash (You may cast this spell any time you could cast an instant.)
+When Firelash Devil enters the battlefield, it deals 2 damage to any target</text>
+    </card>
+    <card>
+      <name>Pyrewild Demon</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>BR</color>
+        <manacost>3BR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Demon </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace, trample, haste
+When Pyrewild Demon attacks, if you cast a spell from your graveyard this turn, you may have Pyrewild Demon deals damage equal to its power to target creature or planeswalker defending player controls.</text>
+    </card>
+    <card>
+      <name>Markov Cullblade</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>B</color>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Vampire Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Other Vampire creatures you control have lifelink.</text>
+    </card>
+    <card>
+      <name>Plains1</name>
+      <set rarity="">ANX</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Island2</name>
+      <set rarity="">ANX</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Swamp</name>
+      <set rarity="">ANX</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Mountain2</name>
+      <set rarity="">ANX</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Forest3</name>
+      <set rarity="">ANX</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Island</name>
+      <set rarity="">ANX</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Swamp1</name>
+      <set rarity="">ANX</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Mountain4</name>
+      <set rarity="">ANX</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Liliana Demon Hunter</name>
+      <set rarity="mythic">ANX</set>
+      <prop>
+        <color>B</color>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Planeswalker - Liliana </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+2]: Each player draws a card and loses 2 life.
+[-3]: Destroy target creature or planeswalker.
+[-7]: You get an emblem with “Whenever a nontoken creature dies, create a 2/2 black Zombie creature token.”</text>
+      <related>Zombie</related>
+    </card>
+    <card>
+      <name>Archangel Freesoul</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>W</color>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Flying, lifelink
+When Archangel Freesoul enters the battlefield, destroy target attacking creature.</text>
+    </card>
+    <card>
+      <name>Bladerunner Seraph</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>W</color>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever one or more cards you own are put into exile, put a +1/+1 counter on Bladerunner Seraph. This ability triggers only once each turn.</text>
+    </card>
+    <card>
+      <name>Leyline Tracker</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost>GG</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Wolf </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Morbid — When Leyline Tracker enters the battlefield, if a creature died this turn, add GG.</text>
+    </card>
+    <card>
+      <name>Wolfir Greatheart</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Wolf </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a spell that targets Wolfir Greatheart, Wolfir Greatheart gains hexproof until end of turn.</text>
+    </card>
+    <card>
+      <name>Wolfir Healing</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>W</color>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a +1/+1 counter on target creature you control. Prevent all combat damage that would be dealt to that creature this turn.</text>
+    </card>
+    <card>
+      <name>Devil Outbreak</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>R</color>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create two 1/1 red Devil creature tokens with “When this creature dies, it deals 1 damage to any target”
+Resonance — Then if you’ve cast another spell this turn, Devil Outbreak deals 2 damage to each opponent.</text>
+      <related>Devil</related>
+    </card>
+    <card>
+      <name>Kessig Nightstalker</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>R</color>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Werewolf </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste</text>
+    </card>
+    <card>
+      <name>Bloodline Caller</name>
+      <set rarity="common" splitterPath="/Bloodline Caller.jpg" >ANX</set>
+      <prop>
+        <color>B</color>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Vampire </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Bloodline Caller enters the battlefield, if you control at least two other Vampires, transform Bloodline Caller.
+---
+(Back): Vampire Soulstealer</text>
+      <related attach="attach">Vampire Soulstealer</related>
+    </card>
+    <card>
+      <name>Vampire Soulstealer</name>
+      <set rarity="common" splitterPath="/Vampire Soulstealer.jpg" >ANX</set>
+      <prop>
+        <color>B</color>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Creature - Vampire </type>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+At the beginning of each opponent’s upkeep, if that player lost no life last turn, transform Vampire Soulstealer.
+---
+(Front): Bloodline Caller</text>
+    </card>
+    <card>
+      <name>False Angel</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>U</color>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Angel Illusion </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When False Angel enters the battlefield, tap it. It doesn’t untap during its controller’s next untap step.
+Whenever False Angel becomes the target of a spell or ability, exile it, then return it to the battlefield under its owner’s control.</text>
+    </card>
+    <card>
+      <name>Forest</name>
+      <set rarity="">ANX</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Mistwalk Geist</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Mistwalk Geist can’t block.
+Whenever Mistwalk Geist attacks, target player mills one.</text>
+    </card>
+    <card>
+      <name>Angel Betrayer</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>WB</color>
+        <manacost>3WB</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Morbid — Angel Betrayer has lifelink and vigilance as long as a creature died this turn.</text>
+    </card>
+    <card>
+      <name>Wolfir Warmonger</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>R</color>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Wolf Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+Wolfir Warmonger attacks each turn if able.
+Other creatures you control get +2/+0 and attack each turn if able.</text>
+    </card>
+    <card>
+      <name>Saint Traft Reincarnated</name>
+      <set rarity="mythic">ANX</set>
+      <prop>
+        <color>WU</color>
+        <manacost>3WU</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Hexproof
+When Saint Traft enters the battlefield, draw two cards.
+Whenever one or more creatures you control deal combat damage to a player, exile up to one target creature you control, then return it to the battlefield.</text>
+    </card>
+    <card>
+      <name>Moorland Necromancer</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>B</color>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Moorland Necromancer enters the battlefield, sacrifice a creature.
+The first time a nontoken creature you control dies each turn, create a 2/2 black Zombie creature token.</text>
+      <related>Zombie</related>
+    </card>
+    <card>
+      <name>Bloodborne Geist</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>B</color>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Demon Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+1B, Pay 1 life: Bloodborne Geist gets +1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Whispering Demon</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>UB</color>
+        <manacost>4UB</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Demon </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Morbid — Whispering Demon can’t be blocked as long as a creature has died this turn.
+UB: Mill one. Whispering Demon gets +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Thaul Summoner</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>B</color>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Morbid — When Thaul Summoner enters the battlefield, if a creature died this turn, create a 5/5 black Demon creature token with flying.</text>
+      <related>Demon</related>
+    </card>
+    <card>
+      <name>Gallow Harvest</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>B</color>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature card from your graveyard to your hand.
+Morbid — If a creature died this turn, draw a card.</text>
+    </card>
+    <card>
+      <name>Dusk Seraph</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>WU</color>
+        <manacost>1WU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you cast a noncreature spell, Angel and Spirit creatures you control get +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Agonizing Growth</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>BG</color>
+        <manacost>2BG</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for two basic land cards, put them onto the battlefield tapped, then shuffle.
+Morbid — Each player loses 4 life if a creature died this turn.</text>
+    </card>
+    <card>
+      <name>Divulger of Secrets</name>
+      <set rarity="common" splitterPath="/Divulger of Secrets.jpg" >ANX</set>
+      <prop>
+        <color>U</color>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Divulger of Secrets deals combat damage to a player, transform it.
+---
+(Back): Havengul Telepath</text>
+      <related attach="attach">Havengul Telepath</related>
+    </card>
+    <card>
+      <name>Havengul Telepath</name>
+      <set rarity="common" splitterPath="/Havengul Telepath.jpg" >ANX</set>
+      <prop>
+        <color>U</color>
+        <manacost></manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Wizard </type>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Hexproof
+Whenever Havengul Telepath deals combat damage to a player, you may draw a card. If you do, transform Havengul Telepath.
+---
+(Front): Divulger of Secrets</text>
+    </card>
+    <card>
+      <name>Cursed Mage</name>
+      <set rarity="common" splitterPath="/Cursed Mage.jpg" >ANX</set>
+      <prop>
+        <color>R</color>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Werewolf </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of each upkeep, if no spells were cast last turn, transform Cursed Mage.
+---
+(Back): Raging Lycanthrope</text>
+      <related attach="attach">Raging Lycanthrope</related>
+    </card>
+    <card>
+      <name>Raging Lycanthrope</name>
+      <set rarity="common" splitterPath="/Raging Lycanthrope.jpg" >ANX</set>
+      <prop>
+        <color>R</color>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Creature - Werewolf </type>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of each upkeep, if a player cast two or more spells last turn, transform Raging Lycanthrope.
+---
+(Front): Cursed Mage</text>
+    </card>
+    <card>
+      <name>Ulvenwald Champion</name>
+      <set rarity="common" splitterPath="/Ulvenwald Champion.jpg" >ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Werewolf </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Ulvenwald Champion deals combat damage to a player, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters, transform Ulvenwald Champion.
+---
+(Back): Decrepit Werewolf</text>
+      <related attach="attach">Decrepit Werewolf</related>
+    </card>
+    <card>
+      <name>Decrepit Werewolf</name>
+      <set rarity="common" splitterPath="/Decrepit Werewolf.jpg" >ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Creature - Werewolf </type>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+At the beginning of your upkeep, remove a +1/+1 counter from Decrepit Werewolf. If you can’t, transform Decrepit Werewolf.
+---
+(Front): Ulvenwald Champion</text>
+    </card>
+    <card>
+      <name>Demonflame</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>R</color>
+        <manacost>XR</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Demonflame deals X damage to target creature. If a creature dealt damage this way dies, Demonflame deals X damage to that creature’s controller.</text>
+    </card>
+    <card>
+      <name>Infusion Geist</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>U</color>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+1U: Infusion Geist gets +1/-1 until end of turn.
+1U: Exile Infusion Geist, then return it to the battlefield under its owner’s control.</text>
+    </card>
+    <card>
+      <name>Geistfire Hellkite</name>
+      <set rarity="mythic">ANX</set>
+      <prop>
+        <color>R</color>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>5/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, haste
+Whenever a creature you control deals combat damage to a player, you may have it deal that much damage to target creature that player controls.</text>
+    </card>
+    <card>
+      <name>Voice of Unrest</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>UB</color>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Other Zombie and Wizard creatures you control get +1/-1.
+Whenever another Zombie or Wizard creature you control dies, if it had no +1/+1 counter on it, return it to the battlefield with a +1/+1 counter on it.</text>
+    </card>
+    <card>
+      <name>Chapel Gargoyle</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color></color>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Gargoyle </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance
+{2}, {T}: You gain 2 life.</text>
+    </card>
+    <card>
+      <name>Gisela Blade of Humanity</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>WR</color>
+        <manacost>5RW</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, haste
+Other creatures you control have vigilance.
+Attacking creatures you control get +2/+2.</text>
+    </card>
+    <card>
+      <name>Sworn Liberator</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>WU</color>
+        <manacost>2WU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+You have hexproof. (You can’t be the target of spells or abilities your opponents control.)</text>
+    </card>
+    <card>
+      <name>Sigarda Horizon Wanderer</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>WG</color>
+        <manacost>5GW</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Sigarda enters the battlefield, put a +1/+1 counter on each other creature you control.
+Whenever Sigarda attacks, you may exile her, then return her to the battlefield under her owner’s control..</text>
+    </card>
+    <card>
+      <name>Woldbind Demon</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>BG</color>
+        <manacost>3BG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Demon </type>
+        <maintype>Creature</maintype>
+        <pt>4/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+At the beginning of each combat, any opponent may sacrifice a creature. If a player does, tap Woldbind Demon and you gain 4 life.</text>
+    </card>
+    <card>
+      <name>Wings of Justice</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>WR</color>
+        <manacost>3RW</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Flying
+Wings of Justice enters the battlefield with a number of +1/+1 counters equal to twice the number of attacking creatures you control.</text>
+    </card>
+    <card>
+      <name>Rancor</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +2/+0 and has trample.
+When Rancor is put into a graveyard from the battlefield, return Rancor to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Tovalar the Hunter</name>
+      <set rarity="mythic" splitterPath="/Tovalar the Hunter.jpg" >ANX</set>
+      <prop>
+        <color>RG</color>
+        <manacost>1RG</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Werewolf </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+When Tovalar deals combat damage to a player, transform it.
+At the beginning of each upkeep, if no spells were cast last turn, transform Tovalar, the Hunter.
+---
+(Back): Tovalar, Howlpack Leader</text>
+      <related attach="attach">Tovalar, Howlpack Leader</related>
+    </card>
+    <card>
+      <name>Tovalar, Howlpack Leader</name>
+      <set rarity="mythic" splitterPath="/Tovalar, Howlpack Leader.jpg" >ANX</set>
+      <prop>
+        <color>RG</color>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Werewolf </type>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Double strike
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Tovalar.
+---
+(Front): Tovalar the Hunter</text>
+    </card>
+    <card>
+      <name>Geistfire Mage</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>U</color>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Geistfire Mage can’t attack unless you’ve cast a noncreature spell this turn.
+Geistfire Mage attacks each turn if able.</text>
+    </card>
+    <card>
+      <name>Stitched Wolfir</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>UG</color>
+        <manacost>GU</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Wolf Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>2GU, {T}, Sacrifice Stitched Wolfir: Draw a number of cards equal to Stitched Wolfir’s power.
+When Stitched Wolfir dies, if it had no +1/+1 counters on it, return it to the battlefield with a +1/+1 counter on it.</text>
+    </card>
+    <card>
+      <name>Leave to Starve</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>BG</color>
+        <manacost>BG</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+At the beginning of the upkeep of enchanted creature’s controller, put a -1/-1 counter on enchanted creature. Its controller loses 1 life for each -1/-1 counter on it.</text>
+    </card>
+    <card>
+      <name>Burning Secret</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>UR</color>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw two cards. Burning Secret deals 2 damage to you.
+Resonance — Then if you’ve cast another spell this turn, draw a card. Burning Secret deals 1 damage to you.</text>
+    </card>
+    <card>
+      <name>Drown in Aether</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>U</color>
+        <manacost>XU</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Scry X.
+• Tap up to X target creatures.
+Resonance — If you’ve cast another spell this turn, you may choose both.</text>
+    </card>
+    <card>
+      <name>Fleshripper Demon</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>B</color>
+        <manacost>3BBB</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Demon </type>
+        <maintype>Creature</maintype>
+        <pt>6/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever Fleshripper Demon attacks, sacrifice a creature.</text>
+    </card>
+    <card>
+      <name>Nephalia Reanimist</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>B</color>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sacrifice a nontoken creature: Untap Nephalia Reanimist.
+{T}, Exile two creature cards from your graveyard: Create a 2/2 black Zombie creature token.</text>
+      <related>Zombie</related>
+    </card>
+    <card>
+      <name>Demon Mantle</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color></color>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{3}, Sacrifice equipped creature: Attach Demon Mantle to target creature you control.
+Equipped creature gets +3/+0 and has trample.
+Equip {6}</text>
+    </card>
+    <card>
+      <name>Avacynian Warpriest</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>W</color>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Resonance — Whenever you cast a spell, if you’ve cast another spell this turn, Avacynian Warpriest gets +2/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Pactmaker of Thaul</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>B</color>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Demon </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+At the beginning of each opponents upkeep, that player may sacrifice a creature. If they don’t, put two +1/+1 counters on Pactmaker of Thaul.</text>
+    </card>
+    <card>
+      <name>Netcaster Spider</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Spider </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach (This creature can block creatures with flying.)
+Whenever Netcaster Spider blocks a creature with flying, Netcaster Spider gets +2/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Mold Geist</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Mold Geist enters the battlefield, search your library for a basic land card, exile it, then shuffle.
+If a land you control would produce mana, you may instead have it produce that much mana of a color that a land card exiled with Mold Geist could produce.</text>
+    </card>
+    <card>
+      <name>Lycan Fury</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>R</color>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +2/+0 and gains first strike until end of turn.
+Morbid — If a creature died this turn, that creature gets +2/+0 and gains double strike until end of turn instead.</text>
+    </card>
+    <card>
+      <name>Jace the Secretist</name>
+      <set rarity="mythic">ANX</set>
+      <prop>
+        <color>U</color>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Planeswalker - Jace </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+2]: Each player draws a card.
+[-2]: Return target creature to its owner’s hand.
+[-7]: Mill five. Then return up to one target instant or sorcery card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Bloodrage Vampire</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>R</color>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Vampire </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Morbid — Whenever Bloodrage Vampire attacks, if a creature died this turn, Vampire creatures you control get +1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Discovery Seraph</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>UR</color>
+        <manacost>2UR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Flying
+When Discovery Seraph enters the battlefield, exile the top two cards of your library. You may cast cards exiled this way until the end of your next turn.
+1U/R: Discovery Seraph gets +1/-1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Olivia Unslain</name>
+      <set rarity="mythic">ANX</set>
+      <prop>
+        <color>BR</color>
+        <manacost>2BR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Vampire </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+{T}: Create a 2/2 black Vampire creature token with flying.
+Sacrifice another Vampire: Exchange control of target creature you control and target creature you don’t control.</text>
+      <related>Vampire</related>
+    </card>
+    <card>
+      <name>Progenitor Ooze</name>
+      <set rarity="mythic">ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Ooze </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Progenitor Ooze enters the battlefield, put a +1/+1 counter on each creature you control.
+Whenever another creature you control with one or more +1/+1 counters dies, if Progenitor Ooze is in your graveyard, you may distribute those counters among any number of target creatures you control.</text>
+    </card>
+    <card>
+      <name>Lunarch&apos;s Hand</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>WR</color>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Double strike, haste
+Whenever you cast a noncreature spell, put a +1/+1 counter on Lunarch’s Hand.</text>
+    </card>
+    <card>
+      <name>Helvault Shard</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color></color>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {C}.
+{5}, {T}: Exile target creature you control, then return that creature to the battlefield under its owner’s control.</text>
+    </card>
+    <card>
+      <name>Trepanation Daggers</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color></color>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +2/+0.
+Whenever equipped creature attacks, target player mills two.
+Equip {3}</text>
+    </card>
+    <card>
+      <name>Tormented Vassal</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>WB</color>
+        <manacost>2WB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Morbid — Tormented Vassal enters the battlefield with two +1/+1 counters on it if a creature died this turn.</text>
+    </card>
+    <card>
+      <name>Vaiko Risen Lunarch</name>
+      <set rarity="mythic">ANX</set>
+      <prop>
+        <color>WG</color>
+        <manacost>X1GW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Cleric Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vaiko enters the battlefield with X +1/+1 counters.
+If one or more +1/+1 counter would be placed on Vaiko twice that many are placed on him instead.
+{T}, Remove a +1/+1 counter from Vaiko: Creatures you control get +2/+2 and gain vigilance until end of turn.</text>
+    </card>
+    <card>
+      <name>Wolfir Brute</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>RG</color>
+        <manacost>2RG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Wolf </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever a creatures you control with power 5 or greater attacks, add {R} or {G} at the beginning of your next main phase.</text>
+    </card>
+    <card>
+      <name>Impending Visions</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Sacrifice Impending Visions: Counter target spell unless its controller pays {1}.</text>
+    </card>
+    <card>
+      <name>Olgvar Hidden Stitcher</name>
+      <set rarity="mythic">ANX</set>
+      <prop>
+        <color>UB</color>
+        <manacost>4UB</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Olgvar can’t be blocked.
+When Olgvar enters the battlefield, sacrifice each other creature you control. For each creature sacrificed this way, create two 2/2 black Zombie creature tokens.</text>
+      <related count="2">Zombie</related>
+    </card>
+    <card>
+      <name>Windwraith</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>U</color>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever a card is put into your graveyard from anywhere, if there is another card with the same name as it in your graveyard, you may exile one of them. If you do, return the other from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Master of Fangs</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>RG</color>
+        <manacost>1RG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Wolf </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace (This creature can’t be blocked except by two or more creatures.)
+Other Wolf and Werewolf creatures you control have menace.</text>
+    </card>
+    <card>
+      <name>Gryff Skystreak</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>WG</color>
+        <manacost>1GW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Hippogriff </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Other Hippogriff and Human creatures you control have lifelink.</text>
+    </card>
+    <card>
+      <name>Fleshripper Gryff</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>R</color>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Hippogriff </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, double strike
+Whenever Fleshripper Gryff attacks, it gets +X/+0 until end of turn where X is the number of spells beyond the first you’ve cast this turn.</text>
+    </card>
+    <card>
+      <name>Spirit Guile</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>U</color>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature enters the battlefield under your control, Scry 1.
+At the beginning of your end step, exile each creature you control that entered the battlefield this turn, then return those creatures to the battlefield under their owner’s control.</text>
+    </card>
+    <card>
+      <name>Gryff Servant</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>W</color>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Hippogriff </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever Gryff Servant attacks, put a +1/+1 counter on another target creature you control.</text>
+    </card>
+    <card>
+      <name>Evolving Wilds</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+    </card>
+    <card>
+      <name>Kessig Kinsman</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{1}, {T}: Add one mana of any color. If you control a nonHuman Werewolf, add RG instead.</text>
+    </card>
+    <card>
+      <name>Pack Gathering</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Reveal the top seven cards of your library. Put all creature cards revealed this way into your hand and the rest into your graveyard.</text>
+    </card>
+    <card>
+      <name>Cathedral Sharpshot</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>W</color>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Cathedral Sharpshot enters the battlefield, remove up to one target attacking creature from combat.</text>
+    </card>
+    <card>
+      <name>Tibalt the Hellfire</name>
+      <set rarity="mythic">ANX</set>
+      <prop>
+        <color>R</color>
+        <manacost>3RRR</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Planeswalker - Tibalt </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>6</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature dealt damage by Tibalt this turn dies, put a number of loyalty counters on Tibalt equal to that creature’s power.
+[-X]: Tibalt deals X damage to target creature.
+[-4]: Discard your hand then draw cards equal to the number of loyalty counters on Tibalt.
+[-12]: Tibalt deals 5 damage to each creature.</text>
+    </card>
+    <card>
+      <name>Hanweir Immolator</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>R</color>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>2R: Hanweir Immolator gets +2/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Bruna Keeper of Truth</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>WU</color>
+        <manacost>WU</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Flying
+Whenever Bruna or another creature with power 2 or less enters the battlefield under your control, you may pay {2}. If you do, draw a card.</text>
+    </card>
+    <card>
+      <name>Cursed Awakening</name>
+      <set rarity="mythic">ANX</set>
+      <prop>
+        <color>B</color>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature card from your graveyard to the battlefield.
+Morbid — You may put target creature card in an opponent’s graveyard onto the battlefield under your control instead if a creature died this turn.</text>
+    </card>
+    <card>
+      <name>Plains3</name>
+      <set rarity="">ANX</set>
+      <prop>
+        <color></color>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Vampire Bloodhunter</name>
+      <set rarity="rare" splitterPath="/Vampire Bloodhunter.jpg" >ANX</set>
+      <prop>
+        <color>B</color>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Vampire </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+At the beginning of your end step, if an opponent lost five or more life this turn, transform Vampire Bloodhunter.
+1B: Target opponent loses 1 life. You gain 1 life.
+---
+(Back): Stromkirk Supremist</text>
+      <related attach="attach">Stromkirk Supremist</related>
+    </card>
+    <card>
+      <name>Stromkirk Supremist</name>
+      <set rarity="rare" splitterPath="/Stromkirk Supremist.jpg" >ANX</set>
+      <prop>
+        <color>B</color>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Creature - Vampire </type>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, lifelink
+At the beginning of your end step, if an opponent lost no life this turn, transform Stromkirk Supremist.
+---
+(Front): Vampire Bloodhunter</text>
+    </card>
+    <card>
+      <name>Keen Acolyte</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>W</color>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another creature enters the battlefield under your control, Keen Acolyte gets +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Toll of the Thaul</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>B</color>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target player sacrifice a creature.
+Resonance — If you’ve cast another spell this turn, that player sacrifices two creatures instead.</text>
+    </card>
+    <card>
+      <name>Werewolf Cannibal</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Werewolf </type>
+        <maintype>Creature</maintype>
+        <pt>7/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Werewolf Cannibal enters the battlefield, sacrifice a creature.</text>
+    </card>
+    <card>
+      <name>Madman Whim</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast Madman Whim, sacrifice a nonland permanent.
+Draw cards equal to the sacrificed permanent’s mana value.</text>
+    </card>
+    <card>
+      <name>Gavony Inspire</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>W</color>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance
+When Gavony Inspire enters the battlefield, choose a creature type.
+Creatures you control of the chosen type get +1/+1 and have vigilance.</text>
+    </card>
+    <card>
+      <name>Town Usurper</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>W</color>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Town Usurper enters the battlefield, sacrifice a creature.
+Morbid — Town Usurper has lifelink as long as a creature died this turn.</text>
+    </card>
+    <card>
+      <name>Stensian Bloodlord</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>R</color>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Vampire </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Stensian Bloodlord enters the battlefield, you may sacrifice a creature. If you do, Stensian Bloodlord deals damage equal to that creature’s power to any target</text>
+    </card>
+    <card>
+      <name>Mordant Blaze</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>R</color>
+        <manacost>XR</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Mordant Blaze deals X damage to target creature and each other creature dealt damage this turn.</text>
+    </card>
+    <card>
+      <name>Cathars Cry</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>W</color>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create two 1/1 white Human creature tokens.
+Creatures you control get +1/+1 for each creature you control until end of turn.</text>
+      <related count="2">Human</related>
+    </card>
+    <card>
+      <name>Unhinged Werewolf</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>G</color>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Werewolf </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Gryff Transporter</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>W</color>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Hippogriff </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Resonance — Whenever you cast a spell, if you’ve cast another spell this turn, target creature you control gains flying until end of turn.</text>
+    </card>
+    <card>
+      <name>Thaul Defiler</name>
+      <set rarity="rare">ANX</set>
+      <prop>
+        <color>B</color>
+        <manacost>3BBB</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Zombie Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever one or more creatures you control die, you may sacrifice a creature. If you do, create a 5/5 black Demon creature token with flying. This ability triggers only once each turn.</text>
+      <related>Demon</related>
+    </card>
+    <card>
+      <name>Resonance Bolt</name>
+      <set rarity="common">ANX</set>
+      <prop>
+        <color>R</color>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Resonance Bolt deals 2 damage divided among up to two target creatures.
+Resonance — If you’ve cast another spell this turn, Resonance Bolt deals an additional 2 damage to each creature targeted this way.</text>
+    </card>
+    <card>
+      <name>Pack Prerogative</name>
+      <set rarity="uncommon">ANX</set>
+      <prop>
+        <color>WG</color>
+        <manacost>2GW</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If an effect would create one or more tokens under your control, it instead creates that many tokens plus an additional one of those tokens.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Zombie</name>
+      <set>ANX</set>
+      <prop>
+        <color>B</color>
+        <type>Token Creature - Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Human</name>
+      <set>ANX</set>
+      <prop>
+        <color>W</color>
+        <type>Token Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Vampire</name>
+      <set>ANX</set>
+      <prop>
+        <color>B</color>
+        <type>Token Creature - Vampire </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Wolf</name>
+      <set>ANX</set>
+      <prop>
+        <color>G</color>
+        <type>Token Creature - Wolf </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Demon</name>
+      <set>ANX</set>
+      <prop>
+        <color>B</color>
+        <type>Token Creature - Demon </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Devil</name>
+      <set>ANX</set>
+      <prop>
+        <color>R</color>
+        <type>Token Creature - Devil </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature dies, it deals 1 damage to any target.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Spirit</name>
+      <set>ANX</set>
+      <prop>
+        <color>W</color>
+        <type>Token Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Hippogriff</name>
+      <set>ANX</set>
+      <prop>
+        <color>U</color>
+        <type>Token Creature - Hippogriff </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Zombie Abomination</name>
+      <set>ANX</set>
+      <prop>
+        <color>U</color>
+        <type>Token Creature - Zombie </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Angel</name>
+      <set>ANX</set>
+      <prop>
+        <color>W</color>
+        <type>Token Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
