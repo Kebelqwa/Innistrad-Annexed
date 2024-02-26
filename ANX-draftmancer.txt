@@ -1,0 +1,2933 @@
+[CustomCards]
+	[    {
+	        "name": "Vengeant Seraph",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Vengeant Seraph.jpg"
+	        }
+	    },
+	    {
+	        "name": "Parish Brute",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Human ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Parish Brute.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gryff Sentinal",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Hippogriff ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Gryff Sentinal.jpg"
+	        }
+	    },
+	    {
+	        "name": "Redeemed Lycanthrope",
+	        "mana_cost": "{W}{W}",
+	        "type": "Creature — Human Werewolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Redeemed Lycanthrope.jpg"
+	        },
+	        "printed names": {
+	            "en": "Redeemed Lycanthrope"
+	        },
+	        "back": {
+	            "name": "Kin Summoner",
+	            "printed_names": {
+	                "en": "Kin Summoner"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Kin Summoner.jpg"
+	            },
+	            "type": "Creature — Werewolf "
+	        }
+	    },
+	    {
+	        "name": "Angelic Beckoning",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Angelic Beckoning.jpg"
+	        }
+	    },
+	    {
+	        "name": "Entreat Oblivion",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Entreat Oblivion.jpg"
+	        }
+	    },
+	    {
+	        "name": "Slain in Glory",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Slain in Glory.jpg"
+	        }
+	    },
+	    {
+	        "name": "Fortifications Hold",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Fortifications Hold.jpg"
+	        }
+	    },
+	    {
+	        "name": "Farscape Wolfir",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Wolf Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Farscape Wolfir.jpg"
+	        }
+	    },
+	    {
+	        "name": "Striking Viper",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Snake ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Striking Viper.jpg"
+	        }
+	    },
+	    {
+	        "name": "Wolfir Harbinger",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Wolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Wolfir Harbinger.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hollowhenge Brambles",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Plant Wall ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Hollowhenge Brambles.jpg"
+	        }
+	    },
+	    {
+	        "name": "Parishcrusher Wurm",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}{G}{G}",
+	        "type": "Creature — Wurm ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Parishcrusher Wurm.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ulvenwald Terror",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Creature — Wolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Ulvenwald Terror.jpg"
+	        }
+	    },
+	    {
+	        "name": "Follow the Path",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Follow the Path.jpg"
+	        }
+	    },
+	    {
+	        "name": "Plentiful Harvest",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Plentiful Harvest.jpg"
+	        }
+	    },
+	    {
+	        "name": "Lycanthropic Echo",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Lycanthropic Echo.jpg"
+	        }
+	    },
+	    {
+	        "name": "Swift Calculation",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Swift Calculation.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dauntless Demon",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Creature — Demon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Dauntless Demon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Virulent Mage",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Virulent Mage.jpg"
+	        }
+	    },
+	    {
+	        "name": "Markov Seeker",
+	        "rarity": "common",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature — Vampire ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Markov Seeker.jpg"
+	        }
+	    },
+	    {
+	        "name": "Lifeless One",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Zombie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Lifeless One.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tibalts Monster",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Devil ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Tibalts Monster.jpg"
+	        }
+	    },
+	    {
+	        "name": "Darting Wolf",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Wolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Darting Wolf.jpg"
+	        }
+	    },
+	    {
+	        "name": "Looting Devil",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{R}",
+	        "type": "Creature — Devil ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Looting Devil.jpg"
+	        }
+	    },
+	    {
+	        "name": "Crazed Bloodsucker",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Creature — Vampire ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Crazed Bloodsucker.jpg"
+	        }
+	    },
+	    {
+	        "name": "Contagious Disease",
+	        "rarity": "common",
+	        "mana_cost": "{X}{B}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Contagious Disease.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hymns of the Fallen",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Hymns of the Fallen.jpg"
+	        }
+	    },
+	    {
+	        "name": "Deprive Tactics",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Deprive Tactics.jpg"
+	        }
+	    },
+	    {
+	        "name": "Twisted Fate",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Twisted Fate.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mnemonic Geist",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Mnemonic Geist.jpg"
+	        }
+	    },
+	    {
+	        "name": "Blind Geist",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Blind Geist.jpg"
+	        }
+	    },
+	    {
+	        "name": "Steeple Whisperer",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Steeple Whisperer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Whimflame Devil",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Creature — Devil ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Whimflame Devil.jpg"
+	        }
+	    },
+	    {
+	        "name": "Vengeful Arbiter",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Vengeful Arbiter.jpg"
+	        }
+	    },
+	    {
+	        "name": "Pyrewire",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Pyrewire.jpg"
+	        }
+	    },
+	    {
+	        "name": "Ghostfathom Touch",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Ghostfathom Touch.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tormenting Voice",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Tormenting Voice.jpg"
+	        }
+	    },
+	    {
+	        "name": "Riot Yell",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Riot Yell.jpg"
+	        }
+	    },
+	    {
+	        "name": "Plains.4",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Plains.4.jpg"
+	        }
+	    },
+	    {
+	        "name": "Island.3",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Island.3.jpg"
+	        }
+	    },
+	    {
+	        "name": "Swamp.4",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Swamp.4.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mountain.1",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Mountain.1.jpg"
+	        }
+	    },
+	    {
+	        "name": "Forest.1",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Forest.1.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gryff Guide",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Hippogriff ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Gryff Guide.jpg"
+	        }
+	    },
+	    {
+	        "name": "Blind with Fright",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Blind with Fright.jpg"
+	        }
+	    },
+	    {
+	        "name": "Corporeal Relapse",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Corporeal Relapse.jpg"
+	        }
+	    },
+	    {
+	        "name": "Wrong Choice",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Wrong Choice.jpg"
+	        }
+	    },
+	    {
+	        "name": "Blessed Soldier",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Blessed Soldier.jpg"
+	        }
+	    },
+	    {
+	        "name": "Outskirt Rider",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Outskirt Rider.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sky Dive",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Sky Dive.jpg"
+	        }
+	    },
+	    {
+	        "name": "Unwaning",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Unwaning.jpg"
+	        }
+	    },
+	    {
+	        "name": "Plains",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Plains.jpg"
+	        }
+	    },
+	    {
+	        "name": "Island.4",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Island.4.jpg"
+	        }
+	    },
+	    {
+	        "name": "Swamp.3",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Swamp.3.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mountain",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Mountain.jpg"
+	        }
+	    },
+	    {
+	        "name": "Forest.2",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Forest.2.jpg"
+	        }
+	    },
+	    {
+	        "name": "Plains.2",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Plains.2.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mountain.3",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Mountain.3.jpg"
+	        }
+	    },
+	    {
+	        "name": "Island.1",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Island.1.jpg"
+	        }
+	    },
+	    {
+	        "name": "Call of the Parish",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Call of the Parish.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mind Pry",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Mind Pry.jpg"
+	        }
+	    },
+	    {
+	        "name": "Escape from Reality",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Escape from Reality.jpg"
+	        }
+	    },
+	    {
+	        "name": "Moonmad Alchemist",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Moonmad Alchemist.jpg"
+	        }
+	    },
+	    {
+	        "name": "Havengul Idealist",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Havengul Idealist.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gavony Scavengers",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Human ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Gavony Scavengers.jpg"
+	        }
+	    },
+	    {
+	        "name": "Kessig Duelist",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Human ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Kessig Duelist.jpg"
+	        }
+	    },
+	    {
+	        "name": "Wolfir Sheepeater",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}{G}",
+	        "type": "Creature — Wolf Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Wolfir Sheepeater.jpg"
+	        }
+	    },
+	    {
+	        "name": "Cathars Vengeance",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Cathars Vengeance.jpg"
+	        }
+	    },
+	    {
+	        "name": "Cosmic Geist",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{U}{U}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Cosmic Geist.jpg"
+	        }
+	    },
+	    {
+	        "name": "Eternal Fires",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Eternal Fires.jpg"
+	        }
+	    },
+	    {
+	        "name": "Falkenrath Bloodbender",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Creature — Vampire ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Falkenrath Bloodbender.jpg"
+	        }
+	    },
+	    {
+	        "name": "Kinfighter",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}{G}",
+	        "type": "Creature — Wolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Kinfighter.jpg"
+	        }
+	    },
+	    {
+	        "name": "Fellhide Warrior",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Wolf Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Fellhide Warrior.jpg"
+	        }
+	    },
+	    {
+	        "name": "Savage Repose",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Savage Repose.jpg"
+	        }
+	    },
+	    {
+	        "name": "Stronghold Arbiter",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Stronghold Arbiter.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sanctified Battlefield",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Sanctified Battlefield.jpg"
+	        }
+	    },
+	    {
+	        "name": "Palace of the Divine",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Palace of the Divine.jpg"
+	        }
+	    },
+	    {
+	        "name": "Corpsefeed Grove",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Corpsefeed Grove.jpg"
+	        }
+	    },
+	    {
+	        "name": "Humid Tundra",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Humid Tundra.jpg"
+	        }
+	    },
+	    {
+	        "name": "Swamp.2",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Swamp.2.jpg"
+	        }
+	    },
+	    {
+	        "name": "Forest.4",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Forest.4.jpg"
+	        }
+	    },
+	    {
+	        "name": "Celebrated Mage",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Celebrated Mage.jpg"
+	        }
+	    },
+	    {
+	        "name": "Backwater Brush",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Backwater Brush.jpg"
+	        }
+	    },
+	    {
+	        "name": "Flameyearn Demon",
+	        "rarity": "rare",
+	        "mana_cost": "{B}{R}",
+	        "type": "Creature — Demon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Flameyearn Demon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Frostweave",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Frostweave.jpg"
+	        }
+	    },
+	    {
+	        "name": "Darkwind Shade",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Shade ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Darkwind Shade.jpg"
+	        }
+	    },
+	    {
+	        "name": "Bloodleech Demon",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}{B}{B}",
+	        "type": "Creature — Demon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Bloodleech Demon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Transcendance Serum",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact — Clue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Transcendance Serum.jpg"
+	        }
+	    },
+	    {
+	        "name": "Kidnapping",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Kidnapping.jpg"
+	        }
+	    },
+	    {
+	        "name": "Feast on the Feeble",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Feast on the Feeble.jpg"
+	        }
+	    },
+	    {
+	        "name": "Warrior Lunarch",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Creature — Human Cleric Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Warrior Lunarch.jpg"
+	        }
+	    },
+	    {
+	        "name": "Waining Call",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Waining Call.jpg"
+	        }
+	    },
+	    {
+	        "name": "Kessig Doghunter",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Kessig Doghunter.jpg"
+	        }
+	    },
+	    {
+	        "name": "Skytreader Angel",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Skytreader Angel.jpg"
+	        }
+	    },
+	    {
+	        "name": "Pact Invoker",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Vampire Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Pact Invoker.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gavony Seraph",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Gavony Seraph.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gravetreader Rogue",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Gravetreader Rogue.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mindsnare",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Mindsnare.jpg"
+	        }
+	    },
+	    {
+	        "name": "Wolfir Ghostspeaker",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Wolf Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Wolfir Ghostspeaker.jpg"
+	        }
+	    },
+	    {
+	        "name": "Banisher Priest",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{W}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Banisher Priest.jpg"
+	        }
+	    },
+	    {
+	        "name": "Strength of the Bond",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Strength of the Bond.jpg"
+	        }
+	    },
+	    {
+	        "name": "Cursed Graves",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Cursed Graves.jpg"
+	        }
+	    },
+	    {
+	        "name": "Wandering Bard",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Human Werewolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Wandering Bard.jpg"
+	        },
+	        "printed names": {
+	            "en": "Wandering Bard"
+	        },
+	        "back": {
+	            "name": "Wandering Werewolf",
+	            "printed_names": {
+	                "en": "Wandering Werewolf"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Wandering Werewolf.jpg"
+	            },
+	            "type": "Creature — Werewolf "
+	        }
+	    },
+	    {
+	        "name": "Scion of Wolves",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Scion of Wolves.jpg"
+	        }
+	    },
+	    {
+	        "name": "Treacherous Cathar",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Treacherous Cathar.jpg"
+	        }
+	    },
+	    {
+	        "name": "Firechain Cathar",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Firechain Cathar.jpg"
+	        }
+	    },
+	    {
+	        "name": "Vampiric Ire",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Vampiric Ire.jpg"
+	        }
+	    },
+	    {
+	        "name": "Roaming Wolf",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Wolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Roaming Wolf.jpg"
+	        }
+	    },
+	    {
+	        "name": "Unyielding Ghoul",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Zombie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Unyielding Ghoul.jpg"
+	        }
+	    },
+	    {
+	        "name": "Markov Harvester",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Creature — Vampire ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Markov Harvester.jpg"
+	        }
+	    },
+	    {
+	        "name": "Angelic Guidance",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Angelic Guidance.jpg"
+	        },
+	        "printed names": {
+	            "en": "Angelic Guidance"
+	        },
+	        "back": {
+	            "name": "Angelic Guardian",
+	            "printed_names": {
+	                "en": "Angelic Guardian"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Angelic Guardian.jpg"
+	            },
+	            "type": "Creature — Angel "
+	        }
+	    },
+	    {
+	        "name": "Whispering Lich",
+	        "rarity": "rare",
+	        "mana_cost": "{U}{B}",
+	        "type": "Creature — Zombie Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Whispering Lich.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tome Thief",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Tome Thief.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gleaming Seraph",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}{W}{W}",
+	        "type": "Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Gleaming Seraph.jpg"
+	        }
+	    },
+	    {
+	        "name": "Necrolance",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Necrolance.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dissension Amulet",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Dissension Amulet.jpg"
+	        }
+	    },
+	    {
+	        "name": "Thalia Vengeful Cathar",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Legendary Planeswalker — Thalia ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Thalia Vengeful Cathar.jpg"
+	        }
+	    },
+	    {
+	        "name": "Skypillars",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Skypillars.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sorin's Messenger",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}{B}",
+	        "type": "Creature — Vampire ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Sorin's Messenger.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hunters Gift",
+	        "rarity": "rare",
+	        "mana_cost": "{5}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Hunters Gift.jpg"
+	        }
+	    },
+	    {
+	        "name": "Markov Servant",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Vampire ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Markov Servant.jpg"
+	        }
+	    },
+	    {
+	        "name": "Thraben Prowler",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Thraben Prowler.jpg"
+	        }
+	    },
+	    {
+	        "name": "Daybreak Guard",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature — Human ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Daybreak Guard.jpg"
+	        }
+	    },
+	    {
+	        "name": "Consuming Demon",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature — Demon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Consuming Demon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Helvault Echos",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Helvault Echos.jpg"
+	        }
+	    },
+	    {
+	        "name": "Angel Frayblade",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Angel Frayblade.jpg"
+	        }
+	    },
+	    {
+	        "name": "Avacyn the Forsaken",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Legendary Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Avacyn the Forsaken.jpg"
+	        }
+	    },
+	    {
+	        "name": "Thousand Teeth",
+	        "rarity": "rare",
+	        "mana_cost": "{5}{G}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Thousand Teeth.jpg"
+	        }
+	    },
+	    {
+	        "name": "Undeath Alchemist",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Undeath Alchemist.jpg"
+	        }
+	    },
+	    {
+	        "name": "Kruin Bandit",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Human Werewolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Kruin Bandit.jpg"
+	        },
+	        "printed names": {
+	            "en": "Kruin Bandit"
+	        },
+	        "back": {
+	            "name": "Renegade Werewolf",
+	            "printed_names": {
+	                "en": "Renegade Werewolf"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Renegade Werewolf.jpg"
+	            },
+	            "type": "Creature — Werewolf "
+	        }
+	    },
+	    {
+	        "name": "Angels Herald",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Creature — Human ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Angels Herald.jpg"
+	        }
+	    },
+	    {
+	        "name": "Fling",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Fling.jpg"
+	        }
+	    },
+	    {
+	        "name": "Moonrage",
+	        "rarity": "uncommon",
+	        "mana_cost": "{6}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Moonrage.jpg"
+	        }
+	    },
+	    {
+	        "name": "Stromkirk Heir",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Vampire ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Stromkirk Heir.jpg"
+	        }
+	    },
+	    {
+	        "name": "Immortal Savagery",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Immortal Savagery.jpg"
+	        }
+	    },
+	    {
+	        "name": "Pacifism",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Pacifism.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sorin Banished",
+	        "mana_cost": "{2}{W}{B}",
+	        "type": "Legendary Planeswalker — Sorin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Sorin Banished.jpg"
+	        },
+	        "printed names": {
+	            "en": "Sorin Banished"
+	        },
+	        "back": {
+	            "name": "Sorin Innistrads Undoing",
+	            "printed_names": {
+	                "en": "Sorin Innistrads Undoing"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Sorin Innistrads Undoing.jpg"
+	            },
+	            "type": "Legendary Planeswalker — Sorin "
+	        }
+	    },
+	    {
+	        "name": "Horrid Souls",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Horrid Souls.jpg"
+	        }
+	    },
+	    {
+	        "name": "Deceive",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Deceive.jpg"
+	        }
+	    },
+	    {
+	        "name": "Thraben Revoker",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Thraben Revoker.jpg"
+	        }
+	    },
+	    {
+	        "name": "Spiritbinder Stitcher",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Spiritbinder Stitcher.jpg"
+	        }
+	    },
+	    {
+	        "name": "GryffTamer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/GryffTamer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Angels Plea",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Angels Plea.jpg"
+	        }
+	    },
+	    {
+	        "name": "Smite the Monstrous",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Smite the Monstrous.jpg"
+	        }
+	    },
+	    {
+	        "name": "Soul Splurge",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}{U}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Soul Splurge.jpg"
+	        }
+	    },
+	    {
+	        "name": "Screams of the Geist",
+	        "rarity": "mythic",
+	        "mana_cost": "{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Screams of the Geist.jpg"
+	        }
+	    },
+	    {
+	        "name": "Eleventh Hour",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Eleventh Hour.jpg"
+	        }
+	    },
+	    {
+	        "name": "Falkenrath Culler",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Vampire ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Falkenrath Culler.jpg"
+	        }
+	    },
+	    {
+	        "name": "Lycan Brutality",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Lycan Brutality.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tibalts Cruelty",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Tibalts Cruelty.jpg"
+	        }
+	    },
+	    {
+	        "name": "Blood Puppetry",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Blood Puppetry.jpg"
+	        }
+	    },
+	    {
+	        "name": "Devils Playground",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Devils Playground.jpg"
+	        }
+	    },
+	    {
+	        "name": "Kruin Igniter",
+	        "rarity": "rare",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Kruin Igniter.jpg"
+	        }
+	    },
+	    {
+	        "name": "Firewing Angel",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Firewing Angel.jpg"
+	        }
+	    },
+	    {
+	        "name": "Peaceful Reserve",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Peaceful Reserve.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gatstaf Forsaker",
+	        "mana_cost": "{1}{G}{G}",
+	        "type": "Creature — Human Werewolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Gatstaf Forsaker.jpg"
+	        },
+	        "printed names": {
+	            "en": "Gatstaf Forsaker"
+	        },
+	        "back": {
+	            "name": "Wolfir Prowler",
+	            "printed_names": {
+	                "en": "Wolfir Prowler"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Wolfir Prowler.jpg"
+	            },
+	            "type": "Creature — Werewolf "
+	        }
+	    },
+	    {
+	        "name": "Hunting Spree",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Hunting Spree.jpg"
+	        }
+	    },
+	    {
+	        "name": "Preying Hunter",
+	        "mana_cost": "{2}{G}{G}",
+	        "type": "Creature — Human Werewolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Preying Hunter.jpg"
+	        },
+	        "printed names": {
+	            "en": "Preying Hunter"
+	        },
+	        "back": {
+	            "name": "Werewolf Stalker",
+	            "printed_names": {
+	                "en": "Werewolf Stalker"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Werewolf Stalker.jpg"
+	            },
+	            "type": "Creature — Werewolf "
+	        }
+	    },
+	    {
+	        "name": "Blossoming Harvest",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{G}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Blossoming Harvest.jpg"
+	        }
+	    },
+	    {
+	        "name": "Holy Vestige",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Holy Vestige.jpg"
+	        }
+	    },
+	    {
+	        "name": "Helvault Dust",
+	        "rarity": "rare",
+	        "mana_cost": "{5}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Helvault Dust.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mistglow Angel",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Mistglow Angel.jpg"
+	        }
+	    },
+	    {
+	        "name": "Skirsdag Assassin",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}{B}",
+	        "type": "Creature — Human Assassin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Skirsdag Assassin.jpg"
+	        }
+	    },
+	    {
+	        "name": "Firelash Devil",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Devil ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Firelash Devil.jpg"
+	        }
+	    },
+	    {
+	        "name": "Pyrewild Demon",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}{R}",
+	        "type": "Creature — Demon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Pyrewild Demon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Markov Cullblade",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Vampire Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Markov Cullblade.jpg"
+	        }
+	    },
+	    {
+	        "name": "Plains.1",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Plains.1.jpg"
+	        }
+	    },
+	    {
+	        "name": "Island.2",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Island.2.jpg"
+	        }
+	    },
+	    {
+	        "name": "Swamp",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Swamp.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mountain.2",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Mountain.2.jpg"
+	        }
+	    },
+	    {
+	        "name": "Forest.3",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Forest.3.jpg"
+	        }
+	    },
+	    {
+	        "name": "Island",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Island.jpg"
+	        }
+	    },
+	    {
+	        "name": "Swamp.1",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Swamp.1.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mountain.4",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Mountain.4.jpg"
+	        }
+	    },
+	    {
+	        "name": "Liliana Demon Hunter",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Legendary Planeswalker — Liliana ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Liliana Demon Hunter.jpg"
+	        }
+	    },
+	    {
+	        "name": "Archangel Freesoul",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Archangel Freesoul.jpg"
+	        }
+	    },
+	    {
+	        "name": "Bladerunner Seraph",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Bladerunner Seraph.jpg"
+	        }
+	    },
+	    {
+	        "name": "Leyline Tracker",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}{G}",
+	        "type": "Creature — Wolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Leyline Tracker.jpg"
+	        }
+	    },
+	    {
+	        "name": "Wolfir Greatheart",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}{G}",
+	        "type": "Creature — Wolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Wolfir Greatheart.jpg"
+	        }
+	    },
+	    {
+	        "name": "Wolfir Healing",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Wolfir Healing.jpg"
+	        }
+	    },
+	    {
+	        "name": "Devil Outbreak",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Devil Outbreak.jpg"
+	        }
+	    },
+	    {
+	        "name": "Kessig Nightstalker",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R}",
+	        "type": "Creature — Werewolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Kessig Nightstalker.jpg"
+	        }
+	    },
+	    {
+	        "name": "Bloodline Caller",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Vampire ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Bloodline Caller.jpg"
+	        },
+	        "printed names": {
+	            "en": "Bloodline Caller"
+	        },
+	        "back": {
+	            "name": "Vampire Soulstealer",
+	            "printed_names": {
+	                "en": "Vampire Soulstealer"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Vampire Soulstealer.jpg"
+	            },
+	            "type": "Creature — Vampire "
+	        }
+	    },
+	    {
+	        "name": "False Angel",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Creature — Angel Illusion ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/False Angel.jpg"
+	        }
+	    },
+	    {
+	        "name": "Forest",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Forest.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mistwalk Geist",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Mistwalk Geist.jpg"
+	        }
+	    },
+	    {
+	        "name": "Angel Betrayer",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{W}{B}",
+	        "type": "Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Angel Betrayer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Wolfir Warmonger",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Wolf Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Wolfir Warmonger.jpg"
+	        }
+	    },
+	    {
+	        "name": "Saint Traft Reincarnated",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{W}{U}",
+	        "type": "Legendary Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Saint Traft Reincarnated.jpg"
+	        }
+	    },
+	    {
+	        "name": "Moorland Necromancer",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Moorland Necromancer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Bloodborne Geist",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Demon Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Bloodborne Geist.jpg"
+	        }
+	    },
+	    {
+	        "name": "Whispering Demon",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{U}{B}",
+	        "type": "Creature — Demon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Whispering Demon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Thaul Summoner",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Thaul Summoner.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gallow Harvest",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Gallow Harvest.jpg"
+	        }
+	    },
+	    {
+	        "name": "Dusk Seraph",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{U}",
+	        "type": "Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Dusk Seraph.jpg"
+	        }
+	    },
+	    {
+	        "name": "Agonizing Growth",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Agonizing Growth.jpg"
+	        }
+	    },
+	    {
+	        "name": "Divulger of Secrets",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Divulger of Secrets.jpg"
+	        },
+	        "printed names": {
+	            "en": "Divulger of Secrets"
+	        },
+	        "back": {
+	            "name": "Havengul Telepath",
+	            "printed_names": {
+	                "en": "Havengul Telepath"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Havengul Telepath.jpg"
+	            },
+	            "type": "Creature — Human Wizard "
+	        }
+	    },
+	    {
+	        "name": "Cursed Mage",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Human Werewolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Cursed Mage.jpg"
+	        },
+	        "printed names": {
+	            "en": "Cursed Mage"
+	        },
+	        "back": {
+	            "name": "Raging Lycanthrope",
+	            "printed_names": {
+	                "en": "Raging Lycanthrope"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Raging Lycanthrope.jpg"
+	            },
+	            "type": "Creature — Werewolf "
+	        }
+	    },
+	    {
+	        "name": "Ulvenwald Champion",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Human Werewolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Ulvenwald Champion.jpg"
+	        },
+	        "printed names": {
+	            "en": "Ulvenwald Champion"
+	        },
+	        "back": {
+	            "name": "Decrepit Werewolf",
+	            "printed_names": {
+	                "en": "Decrepit Werewolf"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Decrepit Werewolf.jpg"
+	            },
+	            "type": "Creature — Werewolf "
+	        }
+	    },
+	    {
+	        "name": "Demonflame",
+	        "rarity": "uncommon",
+	        "mana_cost": "{X}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Demonflame.jpg"
+	        }
+	    },
+	    {
+	        "name": "Infusion Geist",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Infusion Geist.jpg"
+	        }
+	    },
+	    {
+	        "name": "Geistfire Hellkite",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{R}{R}",
+	        "type": "Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Geistfire Hellkite.jpg"
+	        }
+	    },
+	    {
+	        "name": "Voice of Unrest",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{B}",
+	        "type": "Creature — Zombie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Voice of Unrest.jpg"
+	        }
+	    },
+	    {
+	        "name": "Chapel Gargoyle",
+	        "rarity": "common",
+	        "mana_cost": "{5}",
+	        "type": "Artifact Creature — Gargoyle ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Chapel Gargoyle.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gisela Blade of Humanity",
+	        "rarity": "rare",
+	        "mana_cost": "{5}{R}{W}",
+	        "type": "Legendary Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Gisela Blade of Humanity.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sworn Liberator",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}{U}",
+	        "type": "Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Sworn Liberator.jpg"
+	        }
+	    },
+	    {
+	        "name": "Sigarda Horizon Wanderer",
+	        "rarity": "rare",
+	        "mana_cost": "{5}{G}{W}",
+	        "type": "Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Sigarda Horizon Wanderer.jpg"
+	        }
+	    },
+	    {
+	        "name": "Woldbind Demon",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}{G}",
+	        "type": "Creature — Demon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Woldbind Demon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Wings of Justice",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}{W}",
+	        "type": "Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Wings of Justice.jpg"
+	        }
+	    },
+	    {
+	        "name": "Rancor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Rancor.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tovalar the Hunter",
+	        "mana_cost": "{1}{R}{G}",
+	        "type": "Legendary Creature — Human Werewolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Tovalar the Hunter.jpg"
+	        },
+	        "printed names": {
+	            "en": "Tovalar the Hunter"
+	        },
+	        "back": {
+	            "name": "Tovalar Howlpack Leader",
+	            "printed_names": {
+	                "en": "Tovalar Howlpack Leader"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Tovalar Howlpack Leader.jpg"
+	            },
+	            "type": "Legendary Creature — Werewolf "
+	        }
+	    },
+	    {
+	        "name": "Geistfire Mage",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Geistfire Mage.jpg"
+	        }
+	    },
+	    {
+	        "name": "Stitched Wolfir",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}{U}",
+	        "type": "Creature — Wolf Zombie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Stitched Wolfir.jpg"
+	        }
+	    },
+	    {
+	        "name": "Leave to Starve",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Leave to Starve.jpg"
+	        }
+	    },
+	    {
+	        "name": "Burning Secret",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Burning Secret.jpg"
+	        }
+	    },
+	    {
+	        "name": "Drown in Aether",
+	        "rarity": "rare",
+	        "mana_cost": "{X}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Drown in Aether.jpg"
+	        }
+	    },
+	    {
+	        "name": "Fleshripper Demon",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}{B}{B}",
+	        "type": "Creature — Demon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Fleshripper Demon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Nephalia Reanimist",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Nephalia Reanimist.jpg"
+	        }
+	    },
+	    {
+	        "name": "Demon Mantle",
+	        "rarity": "uncommon",
+	        "mana_cost": "{0}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Demon Mantle.jpg"
+	        }
+	    },
+	    {
+	        "name": "Avacynian Warpriest",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{W}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Avacynian Warpriest.jpg"
+	        }
+	    },
+	    {
+	        "name": "Pactmaker of Thaul",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{B}{B}",
+	        "type": "Creature — Demon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Pactmaker of Thaul.jpg"
+	        }
+	    },
+	    {
+	        "name": "Netcaster Spider",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Spider ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Netcaster Spider.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mold Geist",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Mold Geist.jpg"
+	        }
+	    },
+	    {
+	        "name": "Lycan Fury",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Lycan Fury.jpg"
+	        }
+	    },
+	    {
+	        "name": "Jace the Secretist",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{U}",
+	        "type": "Legendary Planeswalker — Jace ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Jace the Secretist.jpg"
+	        }
+	    },
+	    {
+	        "name": "Bloodrage Vampire",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Vampire ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Bloodrage Vampire.jpg"
+	        }
+	    },
+	    {
+	        "name": "Discovery Seraph",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}{R}",
+	        "type": "Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Discovery Seraph.jpg"
+	        }
+	    },
+	    {
+	        "name": "Olivia Unslain",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{B}{R}",
+	        "type": "Legendary Creature — Vampire ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Olivia Unslain.jpg"
+	        }
+	    },
+	    {
+	        "name": "Progenitor Ooze",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Ooze ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Progenitor Ooze.jpg"
+	        }
+	    },
+	    {
+	        "name": "Lunarch's Hand",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{W}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Lunarch's Hand.jpg"
+	        }
+	    },
+	    {
+	        "name": "Helvault Shard",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Helvault Shard.jpg"
+	        }
+	    },
+	    {
+	        "name": "Trepanation Daggers",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Trepanation Daggers.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tormented Vassal",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}{B}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Tormented Vassal.jpg"
+	        }
+	    },
+	    {
+	        "name": "Vaiko Risen Lunarch",
+	        "rarity": "mythic",
+	        "mana_cost": "{X}{1}{G}{W}",
+	        "type": "Legendary Creature — Human Cleric Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Vaiko Risen Lunarch.jpg"
+	        }
+	    },
+	    {
+	        "name": "Wolfir Brute",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}{G}",
+	        "type": "Creature — Wolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Wolfir Brute.jpg"
+	        }
+	    },
+	    {
+	        "name": "Impending Visions",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Impending Visions.jpg"
+	        }
+	    },
+	    {
+	        "name": "Olgvar Hidden Stitcher",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{U}{B}",
+	        "type": "Legendary Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Olgvar Hidden Stitcher.jpg"
+	        }
+	    },
+	    {
+	        "name": "Windwraith",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Windwraith.jpg"
+	        }
+	    },
+	    {
+	        "name": "Master of Fangs",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{G}",
+	        "type": "Creature — Wolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Master of Fangs.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gryff Skystreak",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}{W}",
+	        "type": "Creature — Hippogriff ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Gryff Skystreak.jpg"
+	        }
+	    },
+	    {
+	        "name": "Fleshripper Gryff",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R}{R}",
+	        "type": "Creature — Hippogriff ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Fleshripper Gryff.jpg"
+	        }
+	    },
+	    {
+	        "name": "Spirit Guile",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Spirit Guile.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gryff Servant",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Creature — Hippogriff ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Gryff Servant.jpg"
+	        }
+	    },
+	    {
+	        "name": "Evolving Wilds",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Evolving Wilds.jpg"
+	        }
+	    },
+	    {
+	        "name": "Kessig Kinsman",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Human ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Kessig Kinsman.jpg"
+	        }
+	    },
+	    {
+	        "name": "Pack Gathering",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Pack Gathering.jpg"
+	        }
+	    },
+	    {
+	        "name": "Cathedral Sharpshot",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Cathedral Sharpshot.jpg"
+	        }
+	    },
+	    {
+	        "name": "Tibalt the Hellfire",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{R}{R}{R}",
+	        "type": "Legendary Planeswalker — Tibalt ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Tibalt the Hellfire.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hanweir Immolator",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Hanweir Immolator.jpg"
+	        }
+	    },
+	    {
+	        "name": "Bruna Keeper of Truth",
+	        "rarity": "rare",
+	        "mana_cost": "{W}{U}",
+	        "type": "Legendary Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Bruna Keeper of Truth.jpg"
+	        }
+	    },
+	    {
+	        "name": "Cursed Awakening",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Cursed Awakening.jpg"
+	        }
+	    },
+	    {
+	        "name": "Plains.3",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Plains.3.jpg"
+	        }
+	    },
+	    {
+	        "name": "Vampire Bloodhunter",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Creature — Vampire ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Vampire Bloodhunter.jpg"
+	        },
+	        "printed names": {
+	            "en": "Vampire Bloodhunter"
+	        },
+	        "back": {
+	            "name": "Stromkirk Supremist",
+	            "printed_names": {
+	                "en": "Stromkirk Supremist"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Stromkirk Supremist.jpg"
+	            },
+	            "type": "Creature — Vampire "
+	        }
+	    },
+	    {
+	        "name": "Keen Acolyte",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Keen Acolyte.jpg"
+	        }
+	    },
+	    {
+	        "name": "Toll of the Thaul",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Toll of the Thaul.jpg"
+	        }
+	    },
+	    {
+	        "name": "Werewolf Cannibal",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Werewolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Werewolf Cannibal.jpg"
+	        }
+	    },
+	    {
+	        "name": "Madman Whim",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Madman Whim.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gavony Inspire",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{W}{W}",
+	        "type": "Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Gavony Inspire.jpg"
+	        }
+	    },
+	    {
+	        "name": "Town Usurper",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Town Usurper.jpg"
+	        }
+	    },
+	    {
+	        "name": "Stensian Bloodlord",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Creature — Vampire ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Stensian Bloodlord.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mordant Blaze",
+	        "rarity": "rare",
+	        "mana_cost": "{X}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Mordant Blaze.jpg"
+	        }
+	    },
+	    {
+	        "name": "Cathars Cry",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Cathars Cry.jpg"
+	        }
+	    },
+	    {
+	        "name": "Unhinged Werewolf",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Werewolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Unhinged Werewolf.jpg"
+	        }
+	    },
+	    {
+	        "name": "Gryff Transporter",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Hippogriff ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Gryff Transporter.jpg"
+	        }
+	    },
+	    {
+	        "name": "Thaul Defiler",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{B}{B}{B}",
+	        "type": "Creature — Zombie Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Thaul Defiler.jpg"
+	        }
+	    },
+	    {
+	        "name": "Resonance Bolt",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Resonance Bolt.jpg"
+	        }
+	    },
+	    {
+	        "name": "Pack Prerogative",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Pack Prerogative.jpg"
+	        }
+	    },
+	    {
+	        "name": "Zombie",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Zombie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Zombie.jpg"
+	        }
+	    },
+	    {
+	        "name": "Human",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Human ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Human.jpg"
+	        }
+	    },
+	    {
+	        "name": "Vampire",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Vampire ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Vampire.jpg"
+	        }
+	    },
+	    {
+	        "name": "Wolf",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Wolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Wolf.jpg"
+	        }
+	    },
+	    {
+	        "name": "Demon",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Demon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Demon.jpg"
+	        }
+	    },
+	    {
+	        "name": "Devil",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Devil ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Devil.jpg"
+	        }
+	    },
+	    {
+	        "name": "Spirit",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Spirit.jpg"
+	        }
+	    },
+	    {
+	        "name": "Hippogriff",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Hippogriff ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Hippogriff.jpg"
+	        }
+	    },
+	    {
+	        "name": "Zombie Abomination",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Zombie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Zombie Abomination.jpg"
+	        }
+	    },
+	    {
+	        "name": "Angel",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/Kebelqwa/Innistrad-Annexed/main/ANX-files/Angel.jpg"
+	        }
+	    }
+	]
+	[RareSlot(1)]
+		3 Kessig Duelist
+		3 Cosmic Geist
+		3 Eternal Fires
+		3 Falkenrath Bloodbender
+		3 Kinfighter
+		3 Fellhide Warrior
+		3 Savage Repose
+		3 Sanctified Battlefield
+		3 Palace of the Divine
+		3 Corpsefeed Grove
+		3 Humid Tundra
+		3 Backwater Brush
+		3 Flameyearn Demon
+		3 Bloodleech Demon
+		3 Warrior Lunarch
+		3 Mindsnare
+		3 Unyielding Ghoul
+		3 Angelic Guidance
+		3 Whispering Lich
+		3 Hunters Gift
+		3 Angel Frayblade
+		3 Thousand Teeth
+		3 Angels Herald
+		3 Angels Plea
+		3 Soul Splurge
+		3 Lycan Brutality
+		3 Devils Playground
+		3 Kruin Igniter
+		3 Helvault Dust
+		3 Archangel Freesoul
+		3 Angel Betrayer
+		3 Wolfir Warmonger
+		3 Moorland Necromancer
+		3 Agonizing Growth
+		3 Gisela Blade of Humanity
+		3 Sigarda Horizon Wanderer
+		3 Drown in Aether
+		3 Pactmaker of Thaul
+		3 Mold Geist
+		3 Discovery Seraph
+		3 Windwraith
+		3 Spirit Guile
+		3 Pack Gathering
+		3 Bruna Keeper of Truth
+		3 Vampire Bloodhunter
+		3 Toll of the Thaul
+		3 Madman Whim
+		3 Gavony Inspire
+		3 Mordant Blaze
+		3 Gryff Transporter
+		3 Thaul Defiler
+		1 Blind with Fright
+		1 Stronghold Arbiter
+		1 Thalia Vengeful Cathar
+		1 Helvault Echos
+		1 Avacyn the Forsaken
+		1 Sorin Banished
+		1 Screams of the Geist
+		1 Eleventh Hour
+		1 Firewing Angel
+		1 Blossoming Harvest
+		1 Liliana Demon Hunter
+		1 Saint Traft Reincarnated
+		1 Geistfire Hellkite
+		1 Tovalar the Hunter
+		1 Jace the Secretist
+		1 Olivia Unslain
+		1 Progenitor Ooze
+		1 Vaiko Risen Lunarch
+		1 Olgvar Hidden Stitcher
+		1 Tibalt the Hellfire
+		1 Cursed Awakening
+	[UncommonSlot(3)]
+		3 Fortifications Hold
+		3 Virulent Mage
+		3 Looting Devil
+		3 Deprive Tactics
+		3 Whimflame Devil
+		3 Pyrewire
+		3 Riot Yell
+		3 Wrong Choice
+		3 Blessed Soldier
+		3 Outskirt Rider
+		3 Sky Dive
+		3 Mind Pry
+		3 Escape from Reality
+		3 Moonmad Alchemist
+		3 Gavony Scavengers
+		3 Kidnapping
+		3 Waining Call
+		3 Wolfir Ghostspeaker
+		3 Banisher Priest
+		3 Cursed Graves
+		3 Wandering Bard
+		3 Treacherous Cathar
+		3 Gleaming Seraph
+		3 Skypillars
+		3 Sorin's Messenger
+		3 Thraben Prowler
+		3 Consuming Demon
+		3 Kruin Bandit
+		3 Moonrage
+		3 Horrid Souls
+		3 Thraben Revoker
+		3 Spiritbinder Stitcher
+		3 GryffTamer
+		3 Tibalts Cruelty
+		3 Peaceful Reserve
+		3 Gatstaf Forsaker
+		3 Hunting Spree
+		3 Mistglow Angel
+		3 Skirsdag Assassin
+		3 Firelash Devil
+		3 Pyrewild Demon
+		3 Bladerunner Seraph
+		3 Leyline Tracker
+		3 Wolfir Greatheart
+		3 Wolfir Healing
+		3 Whispering Demon
+		3 Thaul Summoner
+		3 Dusk Seraph
+		3 Demonflame
+		3 Voice of Unrest
+		3 Sworn Liberator
+		3 Woldbind Demon
+		3 Wings of Justice
+		3 Rancor
+		3 Geistfire Mage
+		3 Stitched Wolfir
+		3 Leave to Starve
+		3 Burning Secret
+		3 Demon Mantle
+		3 Avacynian Warpriest
+		3 Lunarch's Hand
+		3 Trepanation Daggers
+		3 Tormented Vassal
+		3 Wolfir Brute
+		3 Master of Fangs
+		3 Gryff Skystreak
+		3 Keen Acolyte
+		3 Werewolf Cannibal
+		3 Stensian Bloodlord
+		3 Pack Prerogative
+	[CommonSlot(10)]
+		4 Vengeant Seraph
+		4 Parish Brute
+		4 Gryff Sentinal
+		4 Redeemed Lycanthrope
+		4 Angelic Beckoning
+		4 Entreat Oblivion
+		4 Slain in Glory
+		4 Farscape Wolfir
+		4 Striking Viper
+		4 Wolfir Harbinger
+		4 Hollowhenge Brambles
+		4 Parishcrusher Wurm
+		4 Ulvenwald Terror
+		4 Follow the Path
+		4 Plentiful Harvest
+		4 Lycanthropic Echo
+		4 Swift Calculation
+		4 Dauntless Demon
+		4 Markov Seeker
+		4 Lifeless One
+		4 Tibalts Monster
+		4 Darting Wolf
+		4 Crazed Bloodsucker
+		4 Contagious Disease
+		4 Hymns of the Fallen
+		4 Twisted Fate
+		4 Mnemonic Geist
+		4 Blind Geist
+		4 Steeple Whisperer
+		4 Vengeful Arbiter
+		4 Ghostfathom Touch
+		4 Tormenting Voice
+		4 Gryff Guide
+		4 Corporeal Relapse
+		4 Unwaning
+		4 Call of the Parish
+		4 Havengul Idealist
+		4 Wolfir Sheepeater
+		4 Cathars Vengeance
+		4 Celebrated Mage
+		4 Frostweave
+		4 Darkwind Shade
+		4 Transcendance Serum
+		4 Feast on the Feeble
+		4 Kessig Doghunter
+		4 Skytreader Angel
+		4 Pact Invoker
+		4 Gavony Seraph
+		4 Gravetreader Rogue
+		4 Strength of the Bond
+		4 Scion of Wolves
+		4 Firechain Cathar
+		4 Vampiric Ire
+		4 Roaming Wolf
+		4 Markov Harvester
+		4 Tome Thief
+		4 Necrolance
+		4 Dissension Amulet
+		4 Markov Servant
+		4 Daybreak Guard
+		4 Undeath Alchemist
+		4 Fling
+		4 Stromkirk Heir
+		4 Immortal Savagery
+		4 Pacifism
+		4 Deceive
+		4 Smite the Monstrous
+		4 Falkenrath Culler
+		4 Blood Puppetry
+		4 Preying Hunter
+		4 Holy Vestige
+		4 Markov Cullblade
+		4 Devil Outbreak
+		4 Kessig Nightstalker
+		4 Bloodline Caller
+		4 False Angel
+		4 Mistwalk Geist
+		4 Bloodborne Geist
+		4 Gallow Harvest
+		4 Divulger of Secrets
+		4 Cursed Mage
+		4 Ulvenwald Champion
+		4 Infusion Geist
+		4 Chapel Gargoyle
+		4 Fleshripper Demon
+		4 Nephalia Reanimist
+		4 Netcaster Spider
+		4 Lycan Fury
+		4 Bloodrage Vampire
+		4 Helvault Shard
+		4 Impending Visions
+		4 Fleshripper Gryff
+		4 Gryff Servant
+		4 Evolving Wilds
+		4 Kessig Kinsman
+		4 Cathedral Sharpshot
+		4 Hanweir Immolator
+		4 Town Usurper
+		4 Cathars Cry
+		4 Unhinged Werewolf
+		4 Resonance Bolt
+	[BasicSlot(1)]
+		10 Plains.4
+		10 Island.3
+		10 Swamp.4
+		10 Mountain.1
+		10 Forest.1
+		10 Plains
+		10 Island.4
+		10 Swamp.3
+		10 Mountain
+		10 Forest.2
+		10 Plains.2
+		10 Mountain.3
+		10 Island.1
+		10 Swamp.2
+		10 Forest.4
+		10 Plains.1
+		10 Island.2
+		10 Swamp
+		10 Mountain.2
+		10 Forest.3
+		10 Island
+		10 Swamp.1
+		10 Mountain.4
+		10 Forest
+		10 Plains.3
+	
